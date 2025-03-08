@@ -27,10 +27,7 @@ export const RunHomePage = () => {
               Hold av datoen for kommende bryllup
             </p>
           </div>
-          <p className="font-primary text-5xl lg:text-7xl">
-            Lasse <span className="font-secondary text-6xl lg:text-8xl">&</span>{" "}
-            Laura
-          </p>
+
           <p className="font-primary text-3xl lg:text-5xl">
             Lørdag d. 30 mai 2026
           </p>
