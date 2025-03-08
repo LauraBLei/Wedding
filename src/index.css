@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Extend Tailwind's font-family using @layer directive */
+@theme {
+  --font-primary: "Abel", "sans-serif";
+  --font-secondary: "Rouge Script", cursive;
+  --color-customWhite: #f5f8ef;
+  --color-customGreen: #022d1d;
+}
