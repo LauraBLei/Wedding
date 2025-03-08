@@ -1,8 +1,8 @@
 export const RunHomePage = () => {
   return (
     <div className="w-full flex justify-center">
-      <div className="max-w-[1400px]">
-        <div className="h-[200px] sm:h-[300px] md:h-[400px]">
+      <div className="max-w-[1400px] mt-10 md:mt-20">
+        <div className="h-[200px] sm:h-[300px] md:h-[400px] w-full">
           <img
             className="object-cover w-full h-full"
             src="./frontpageImage.png"
@@ -11,7 +11,7 @@ export const RunHomePage = () => {
         </div>
         <div className="w-full items-center  flex max-w-[780px] relative">
           <img
-            className="max-w-[50vw] w-full absolute z-50"
+            className="max-w-[50vw] min-w-[250px] w-full absolute z-50"
             src="./flowerImage.png"
             alt=""
           />
