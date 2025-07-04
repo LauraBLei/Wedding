@@ -21,13 +21,15 @@
     "address_name": "Skjeldbreid Poirée",
     "address": "Rindakleivane 47, 5640 Eikelandsosen",
     "parking_headline": "Parking",
-    "parking": "There is private parking right at the venue, so it's easy to find and park your car.",
+    "parking": "There is private parking right at the venue, so it's easy to find and park your car. There is NO possibility to charge an electric car.",
     "transport_headline": "Public transport",
     "transport": "It is possible to take public transport so you arrive close to the lodge, and we can always arrange pickup from there. We recommend downloading the Skyss APPs: both Skyss and Skyss Billett. Don't hesitate to ask if you are unsure which bus route fits! We are also happy to arrange pickup at the ferry, so just write to us and we'll figure something out.",
     "transport_skyss_iphone": "Download the Skyss App here (for iPhone)",
     "transport_skyss_android": "Download the Skyss App here (for Android)",
     "transport_billett_iphone": "Download the Skyss Billett App here (for iPhone)",
-    "transport_billett_android": "Download the Skyss Billett App here (for Android)"
+    "transport_billett_android": "Download the Skyss Billett App here (for Android)",
+    "ferry": "The ferry runs from Venjaneset to Hatvik. Click here for more information about ferry prices and departure times.",
+    "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset"
   },
   "registration": {
     "headline": "Registration",
@@ -38,7 +40,8 @@
       "Which room you would like",
       "If you are joining for the whole weekend (Friday–Sunday) or only Saturday.",
       "Any allergies or special considerations."
-    ]
+    ],
+    "su": "RSVP by October 1, 2025"
   },
   "rooms": {
     "headline": "Accommodation",

@@ -17,6 +17,7 @@ export const TilmeldingSection = () => {
             ))}
           </ul>
         )}
+        <p className="text-2xl py-2">{t("registration.su")}</p>
       </div>
       <div className="flex-1 w-full overflow-hidden h-full">
         <img className="w-full h-full object-cover" src="/os.png" alt="" />

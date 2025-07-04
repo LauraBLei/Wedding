@@ -21,13 +21,15 @@
     "address_name": "Skjeldbreid Poirée",
     "address": "Rindakleivane 47, 5640 Eikelandsosen",
     "parking_headline": "Parkering",
-    "parking": "Det er egen parkering rett ved stedet, så det er enkelt å finne og parkere bilen.",
+    "parking": "Det er egen parkering rett ved stedet, så det er enkelt å finne og parkere bilen. Der er IKKE mulighet for å lade el-bil.",
     "transport_headline": "Offentlig transport",
     "transport": "Det er mulig å ta offentlig transport slik at du ankommer nær hytta, så kan vi alltid ordne henting derfra. Vi anbefaler å laste ned Skyss-appene: både Skyss og Skyss Billett. Ikke nøl med å spørre hvis du er usikker på hvilken bussrute som passer! Vi ordner også gjerne henting ved ferga, så bare ta kontakt, så finner vi ut av det.",
     "transport_skyss_iphone": "Last ned Skyss-appen her (for iPhone)",
     "transport_skyss_android": "Last ned Skyss-appen her (for Android)",
     "transport_billett_iphone": "Last ned Skyss Billett-appen her (for iPhone)",
-    "transport_billett_android": "Last ned Skyss Billett-appen her (for Android)"
+    "transport_billett_android": "Last ned Skyss Billett-appen her (for Android)",
+    "ferry": "Fergen går fra Venjaneset til Hatvik, klikk her for mer informasjon om fergepriser og avgangstider",
+    "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset"
   },
   "registration": {
     "headline": "Påmelding",
@@ -38,7 +40,8 @@
       "Hvilket rom dere ønsker",
       "Om dere er med hele helgen (fredag–søndag) eller kun lørdag.",
       "Eventuelle allergier eller spesielle hensyn."
-    ]
+    ],
+    "su": "S.U. den 1. Oktober 2025"
   },
   "rooms": {
     "headline": "Overnatting",

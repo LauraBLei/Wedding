@@ -21,13 +21,15 @@
     "address_name": "Skjeldbreid Poirée",
     "address": "Rindakleivane 47, 5640 Eikelandsosen",
     "parking_headline": "Parkering",
-    "parking": "Der er egen parkering lige ved stedet, så det er nemt at finde og parkere bilen.",
+    "parking": "Der er egen parkering lige ved stedet, så det er nemt at finde og parkere bilen. Der er IKKE mulighed for at lade el-bil.",
     "transport_headline": "Offentlig transport",
     "transport": "Det er muligt at tage offentlig transport så du ankommer tæt på lodgen, så kan vi altid arrangere hentning derfra. Vi anbefaler at downloade Skyss APP’en. Både Skyss og Skyss Billett. Ikke tøv med at spørge hvis du er i tvivl om hvilken bus rute der passer! Vi arrangerer også gerne hentning ved færgen, så skriv endelig til os, så finder ud af noget.",
     "transport_skyss_iphone": "Download Skyss Appen her (for iPhone)",
     "transport_skyss_android": "Download Skyss Appen her (for Android)",
     "transport_billett_iphone": "Download Skyss Billett Appen her (for iPhone)",
-    "transport_billett_android": "Download Skyss Billett Appen her (for Android)"
+    "transport_billett_android": "Download Skyss Billett Appen her (for Android)",
+    "ferry": "Færgen går fra Venjaneset til Hatvik, klik her for mere information om færge priser og færge afgangs tider",
+    "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset"
   },
   "menu": {
     "headline": "Menu",
@@ -53,6 +55,7 @@
     "headline": "Tilmelding",
     "text_one": "Vi glæder os til en hyggelig weekend med jer alle!",
     "text_two": "Giv os en besked, hvis i kommer - og husk gerne at skrive følgende med:",
+    "su": "S.U. den 1. Oktober 2025",
     "list": [
       "Hvor mange i kommer",
       "Hvilket værelse i ønsker",
@@ -82,7 +85,6 @@
     "third_link_one": "https://www.airbnb.no/rooms/37215290?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-06-28&check_out=2024-07-05&source_impression_id=p3_1706194913_yYD27wdXt0XVROpo&previous_page_section_name=1000&federated_search_id=b34529b7-a958-49d5-8c0c-2fb373f3e5cb",
     "third_link_two": "https://www.airbnb.no/rooms/37214391?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-06-01&check_out=2024-06-08&source_impression_id=p3_1706194913_e4BQ%2FFW7GbuA3kjG&previous_page_section_name=1000&federated_search_id=b34529b7-a958-49d5-8c0c-2fb373f3e5cb",
     "third_link_three": "https://www.airbnb.no/rooms/37214567?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-06-22&check_out=2024-06-29&source_impression_id=p3_1706194913_2FLKk9mZOJWTmH1s&previous_page_section_name=1000&federated_search_id=b34529b7-a958-49d5-8c0c-2fb373f3e5cb",
-
     "small_text": "Vi anbefaler at bestille overnatning tidligt, da det kan blive fyldt op mod weekenden."
   },
   "foto": {
