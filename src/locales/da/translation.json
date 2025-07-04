@@ -32,7 +32,13 @@
     "play_note": "Hvis linket ikke virker, så søg efter 'Skyss Reise' eller 'Skyss Billett' direkte i Google Play Butik appen.",
     "ferry_headline": "Færge",
     "ferry": "Færgen går fra Venjaneset til Hatvik, klik her for mere information om færge priser og færge afgangs tider",
-    "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset"
+    "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset",
+    "extra_headline": "Ekstra Information",
+    "extra": [
+      "Prisen for en busbillet er, Barn: 25,00NOK, Voksen: 49,00NOK. Biletten varer i 60 min, så hvis din rejse er længere end det, skal du selvfølgelig have flere billetter.",
+      "Bus turen tager omkring 2.5 time. Det kan variere alt efter tidspunkt.",
+      "Det taget ca. 1t & 14min i bil fra flesland (Lufthavnen) til Skjeldbreid."
+    ]
   },
   "menu": {
     "headline": "Menu",

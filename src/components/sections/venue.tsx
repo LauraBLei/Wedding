@@ -96,6 +96,16 @@ export const VenueSection = () => {
             <p className="text-xs text-gray-300 mt-2">{t("venue.play_note")}</p>
           </div>
         </article>
+        <article>
+          <h3 className="headlineTwo">{t("venue.extra_headline")}</h3>
+          <ul className="list-disc pl-6">
+            {(t("venue.extra", { returnObjects: true }) as string[]).map(
+              (item, idx) => (
+                <li key={idx}>{item}</li>
+              )
+            )}
+          </ul>
+        </article>
       </div>
       <div className="flex-1 flex flex-col gap-5">
         <div className="overflow-hidden ">

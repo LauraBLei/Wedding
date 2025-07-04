@@ -32,7 +32,13 @@
     "ferry_headline": "Ferry",
     "ferry": "The ferry runs from Venjaneset to Hatvik. Click here for more information about ferry prices and departure times.",
     "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset",
-    "transport_guide": "If you are traveling from the airport to Skjeldbreid, the journey is 'Flesland (Bergen Airport, Bergen) to Rindakleivane 47, Bjørnafjorden (the stop is called Skjelbreid)'. You cannot take the bus all the way to the lodge, but it stops 2 km away."
+    "transport_guide": "If you are traveling from the airport to Skjeldbreid, the journey is 'Flesland (Bergen Airport, Bergen) to Rindakleivane 47, Bjørnafjorden (the stop is called Skjelbreid)'. You cannot take the bus all the way to the lodge, but it stops 2 km away.",
+    "extra_headline": "Extra Information",
+    "extra": [
+      "The price for a bus ticket is: Child: 25.00 NOK, Adult: 49.00 NOK. The ticket is valid for 60 minutes, so if your journey is longer, you will of course need more tickets.",
+      "The bus ride takes about 2.5 hours. It may vary depending on the time of day.",
+      "It takes about 1h & 14min by car from Flesland (the airport) to Skjeldbreid."
+    ]
   },
   "registration": {
     "headline": "Registration",
