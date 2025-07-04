@@ -46,18 +46,18 @@ export const Sidebar = () => {
         >
           ×
         </button>
-        <nav className="pt-10 flex flex-col  px-8 h-full justify-between ">
+        <nav className="pt-10 flex flex-col text-sm md:text-lg   px-8 h-full justify-between ">
           <div>
             {sections.map((section) => (
               <button
                 key={section.id}
-                className="text-lg text-left py-2 px-2 rounded hover:bg-customBlack w-full cursor-pointer transition"
+                className="text-left py-2 px-2 rounded hover:bg-customBlack w-full cursor-pointer transition"
                 onClick={() => handleNav(section.id)}
               >
                 {t(section.labelKey)}
               </button>
             ))}
-            <div className="mt-6 flex gap-2 flex-col">
+            <div className="mt-6 flex gap-2 flex-col text-sm md:text-lg">
               <button
                 onClick={() => i18n.changeLanguage("da")}
                 className={`px-2 py-1 rounded text-sm border flex items-center gap-1 ${
