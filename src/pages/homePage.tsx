@@ -29,7 +29,10 @@ export const RunHomePage = () => {
       <section id="overnatning" className="max-w-[1440px] w-full px-5">
         <OvernatningSection />
       </section>
-      <section id="tilmelding" className="max-w-[1440px] w-full px-5">
+      <section
+        id="tilmelding"
+        className="max-w-[1440px] w-full md:pl-5  bg-customGreen "
+      >
         <TilmeldingSection />
       </section>
       <section id="ekstra" className="max-w-[1440px] w-full px-5">
