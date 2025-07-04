@@ -8,3 +8,15 @@
   --color-customBlack: #202020;
   --color-sidebarBlack: #272727;
 }
+
+.headline {
+  @apply text-lg md:text-2xl lg:text-4xl py-2;
+}
+
+.headlineTwo {
+  @apply text-base md:text-lg lg:text-2xl border-b-1 border-white w-full mb-2;
+}
+
+.skyssLogo {
+  @apply w-6 md:w-10;
+}

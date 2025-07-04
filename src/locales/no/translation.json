@@ -1,0 +1,87 @@
+{
+  "welcome": {
+    "headline": "Velkommen",
+    "date": "29. mai - 31. mai 2026"
+  },
+  "program": {
+    "headline": "Program",
+    "friday": "Fredag",
+    "saturday": "Lørdag",
+    "sunday": "Søndag",
+    "friday_stepOne": "15.30: Innsjekk",
+    "friday_stepTwo": "18.00: Middag",
+    "saturday_stepOne": "Kommer snart!",
+    "sunday_stepOne": "9.00 - 11.00: Frokost",
+    "sunday_stepTwo": "11.30: Utsjekk"
+  },
+  "venue": {
+    "headline": "Lokation",
+    "intro": "Vi gleder oss veldig til å feire vår store dag sammen med dere på Skjelbreid Poiree. Det er et helt spesielt sted med en hyggelig og intim atmosfære, og de vakre omgivelsene gjør det til det perfekte stedet for vårt minneverdige bryllup.",
+    "address_headline": "Adresse",
+    "address_name": "Skjeldbreid Poirée",
+    "address": "Rindakleivane 47, 5640 Eikelandsosen",
+    "parking_headline": "Parkering",
+    "parking": "Det er egen parkering rett ved stedet, så det er enkelt å finne og parkere bilen.",
+    "transport_headline": "Offentlig transport",
+    "transport": "Det er mulig å ta offentlig transport slik at du ankommer nær hytta, så kan vi alltid ordne henting derfra. Vi anbefaler å laste ned Skyss-appene: både Skyss og Skyss Billett. Ikke nøl med å spørre hvis du er usikker på hvilken bussrute som passer! Vi ordner også gjerne henting ved ferga, så bare ta kontakt, så finner vi ut av det.",
+    "transport_skyss_iphone": "Last ned Skyss-appen her (for iPhone)",
+    "transport_skyss_android": "Last ned Skyss-appen her (for Android)",
+    "transport_billett_iphone": "Last ned Skyss Billett-appen her (for iPhone)",
+    "transport_billett_android": "Last ned Skyss Billett-appen her (for Android)"
+  },
+  "registration": {
+    "headline": "Påmelding",
+    "text_one": "Vi gleder oss til en hyggelig helg med dere alle!",
+    "text_two": "Gi oss beskjed hvis dere kommer – og husk gjerne å skrive følgende:",
+    "list": [
+      "Hvor mange dere kommer",
+      "Hvilket rom dere ønsker",
+      "Om dere er med hele helgen (fredag–søndag) eller kun lørdag.",
+      "Eventuelle allergier eller spesielle hensyn."
+    ]
+  },
+  "Rooms": {
+    "headline": "Overnatting",
+    "textOne": "Det er mulig å overnatte på lodgen mot betaling.",
+    "textTwo": "Hvis dere ønsker et rom, skriv det når dere melder dere på! Vi reserverer de største rommene til barnefamilier.",
+    "textThree": "Det er felles bad og badstue i kjelleren. Så selv om det ikke er bad på alle rom, kan dere bruke de felles fasilitetene.",
+    "textFour": "Det er også utendørs spa, så ta gjerne med badetøy!",
+    "table": {
+      "headers": ["Type", "Senger", "Bad", "Pris for helgen"],
+      "rows": [
+        ["Standard", "1 dobbeltseng", "Ja", "2.000 NOK / 1.400 DKK"],
+        ["Alkove", "2 enkeltsenger", "Nei", "1.500 NOK / 1.050 DKK"]
+      ]
+    },
+    "small_text": "Av hensyn til barnefamilier vil standardrommene som hovedregel bli tildelt dem først.",
+    "small_text_two": "Inkludert i prisen: Frokost lørdag & søndag. Middag fredag. Og eventuelt snacks, frukt og drikke i løpet av helgen."
+  },
+  "Extra": {
+    "headline": "Ekstra informasjon",
+    "subject_one": "Utstyr tilgjengelig i lodgen",
+    "list_one": [
+      "Projektor",
+      "1 stk myggmikrofon",
+      "Gratis Wi-Fi",
+      "Høyttalere i spisesal og peisestue, kobles til med AUX",
+      "TV",
+      "2 luftmadrasser",
+      "1 barneseng"
+    ],
+    "subject_two": "Overnatting i nærheten",
+    "list_two": [
+      "Fusa camping (20 min kjøring med bil)",
+      "Bjørkheim kro og motell (30 min kjøring med bil)",
+      "Odd Skjelde Hytteutleie (7 min kjøring med bil)"
+    ]
+  },
+  "foto": {
+    "headline": "Fotogalleri",
+    "text_one": "Vi håper dere vil dele bildene dere tar i løpet av helgen med oss!",
+    "text_two": "Dere kan bruke denne linken, eller skanne QR-koden."
+  },
+  "menu": {
+    "headline": "Meny",
+    "tekst": "Kommer snart"
+  }
+}

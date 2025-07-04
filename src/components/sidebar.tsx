@@ -1,19 +1,21 @@
 import { MenuIcon } from "lucide-react";
 import { useState } from "react";
+import { useTranslation } from "react-i18next";
 
 const sections = [
-  { id: "welcome", label: "Welcome" },
-  { id: "venue", label: "Venue" },
-  { id: "program", label: "Program" },
-  { id: "menu", label: "Menu" },
-  { id: "overnatning", label: "Overnatning" },
-  { id: "tilmelding", label: "Tilmelding" },
-  { id: "ekstra", label: "Ekstra Information" },
-  { id: "fotogalleri", label: "Fotogalleri" },
+  { id: "welcome", labelKey: "welcome.headline" },
+  { id: "venue", labelKey: "venue.headline" },
+  { id: "program", labelKey: "program.headline" },
+  { id: "menu", labelKey: "menu.headline" },
+  { id: "overnatning", labelKey: "Rooms.headline" },
+  { id: "tilmelding", labelKey: "registration.headline" },
+  { id: "ekstra", labelKey: "Extra.headline" },
+  { id: "fotogalleri", labelKey: "foto.headline" },
 ];
 
 export const Sidebar = () => {
   const [open, setOpen] = useState(false);
+  const { i18n, t } = useTranslation();
 
   const handleNav = (id: string) => {
     setOpen(false);
@@ -52,9 +54,44 @@ export const Sidebar = () => {
                 className="text-lg text-left py-2 px-2 rounded hover:bg-customBlack w-full cursor-pointer transition"
                 onClick={() => handleNav(section.id)}
               >
-                {section.label}
+                {t(section.labelKey)}
               </button>
             ))}
+            <div className="mt-6 flex gap-2 flex-col">
+              <button
+                onClick={() => i18n.changeLanguage("da")}
+                className={`px-2 py-1 rounded text-sm border flex items-center gap-1 ${
+                  i18n.language === "da"
+                    ? "bg-white text-black font-bold"
+                    : "bg-sidebarBlack text-white border-white"
+                }`}
+              >
+                <img src="/flags/dk.webp" alt="Dansk" className="w-5 h-5" />{" "}
+                Dansk
+              </button>
+              <button
+                onClick={() => i18n.changeLanguage("no")}
+                className={`px-2 py-1 rounded text-sm border flex items-center gap-1 ${
+                  i18n.language === "no"
+                    ? "bg-white text-black font-bold"
+                    : "bg-sidebarBlack text-white border-white"
+                }`}
+              >
+                <img src="/flags/no.png" alt="Norsk" className="w-5 h-5" />{" "}
+                Norsk
+              </button>
+              <button
+                onClick={() => i18n.changeLanguage("en")}
+                className={`px-2 py-1 rounded text-sm border flex items-center gap-1 ${
+                  i18n.language === "en"
+                    ? "bg-white text-black font-bold"
+                    : "bg-sidebarBlack text-white border-white"
+                }`}
+              >
+                <img src="/flags/gb.webp" alt="English" className="w-5 h-5" />{" "}
+                English
+              </button>
+            </div>
           </div>
           <img className="ml-[-30px]" src="/flowers.png" alt="" />
         </nav>

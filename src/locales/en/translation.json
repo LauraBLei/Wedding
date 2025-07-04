@@ -1,0 +1,87 @@
+{
+  "welcome": {
+    "headline": "Welcome",
+    "date": "29 May - 31 May 2026"
+  },
+  "program": {
+    "headline": "Program",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "friday_stepOne": "3:30 PM: Check-in",
+    "friday_stepTwo": "6:00 PM: Dinner",
+    "saturday_stepOne": "Coming soon!",
+    "sunday_stepOne": "9:00 - 11:00 AM: Breakfast",
+    "sunday_stepTwo": "11:30 AM: Check-out"
+  },
+  "venue": {
+    "headline": "Venue",
+    "intro": "We can't wait to celebrate our big day with you at Skjelbreid Poiree. It's a very special place with a cozy and intimate atmosphere, and the beautiful surroundings make it the perfect place for our memorable wedding party.",
+    "address_headline": "Address",
+    "address_name": "Skjeldbreid Poirée",
+    "address": "Rindakleivane 47, 5640 Eikelandsosen",
+    "parking_headline": "Parking",
+    "parking": "There is private parking right at the venue, so it's easy to find and park your car.",
+    "transport_headline": "Public transport",
+    "transport": "It is possible to take public transport so you arrive close to the lodge, and we can always arrange pickup from there. We recommend downloading the Skyss APPs: both Skyss and Skyss Billett. Don't hesitate to ask if you are unsure which bus route fits! We are also happy to arrange pickup at the ferry, so just write to us and we'll figure something out.",
+    "transport_skyss_iphone": "Download the Skyss App here (for iPhone)",
+    "transport_skyss_android": "Download the Skyss App here (for Android)",
+    "transport_billett_iphone": "Download the Skyss Billett App here (for iPhone)",
+    "transport_billett_android": "Download the Skyss Billett App here (for Android)"
+  },
+  "registration": {
+    "headline": "Registration",
+    "text_one": "We look forward to a wonderful weekend with all of you!",
+    "text_two": "Let us know if you are coming – and please include the following:",
+    "list": [
+      "How many people are coming",
+      "Which room you would like",
+      "If you are joining for the whole weekend (Friday–Sunday) or only Saturday.",
+      "Any allergies or special considerations."
+    ]
+  },
+  "Rooms": {
+    "headline": "Accommodation",
+    "textOne": "There is an option to stay at the lodge for a fee.",
+    "textTwo": "If you want a room, please mention it when you register! We will reserve the largest rooms for families with children.",
+    "textThree": "There are shared bathrooms and a sauna in the basement. So even if not all rooms have a private bathroom, you can still use the shared facilities.",
+    "textFour": "There is also an outdoor spa, so bring your swimwear!",
+    "table": {
+      "headers": ["Type", "Beds", "Bathroom", "Price for the weekend"],
+      "rows": [
+        ["Standard", "1 double bed", "Yes", "2,000 NOK / 1,400 DKK"],
+        ["Alcove", "2 single beds", "No", "1,500 NOK / 1,050 DKK"]
+      ]
+    },
+    "small_text": "As a rule, standard rooms will be allocated to families with children first.",
+    "small_text_two": "Included in the price: Breakfast Saturday & Sunday. Dinner Friday. And possibly snacks, fruit, and drinks during the weekend."
+  },
+  "Extra": {
+    "headline": "Extra Information",
+    "subject_one": "Equipment available at the lodge",
+    "list_one": [
+      "Projector",
+      "1 wireless microphone",
+      "Free Wi-Fi",
+      "Speakers in the dining hall and lounge, connect via AUX",
+      "TV",
+      "2 air mattresses",
+      "1 crib"
+    ],
+    "subject_two": "Accommodation nearby",
+    "list_two": [
+      "Fusa camping (20 min drive by car)",
+      "Bjørkheim inn and motel (30 min drive by car)",
+      "Odd Skjelde Cabin Rental (7 min drive by car)"
+    ]
+  },
+  "foto": {
+    "headline": "Photo Gallery",
+    "text_one": "We hope you will share the photos you take during the weekend with us!",
+    "text_two": "You can use this link, or scan the QR code."
+  },
+  "menu": {
+    "headline": "Menu",
+    "tekst": "Coming soon"
+  }
+}

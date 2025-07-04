@@ -1,4 +1,8 @@
+import { useTranslation } from "react-i18next";
+
 export const WelcomeSection = () => {
+  const { t } = useTranslation();
+
   return (
     <div className="w-full mt-20">
       <div className="flex w-full justify-between">
@@ -19,7 +23,7 @@ export const WelcomeSection = () => {
           <p className="text-base md:text-2xl lg:text-4xl mt-5 lg:mt-15">
             LAURA & LASSE
           </p>
-          <p>29. MAJ - 31. MAJ 2026</p>
+          <p>{t("welcome.date")}</p>
         </div>
 
         <img
