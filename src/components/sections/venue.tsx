@@ -9,7 +9,14 @@ export const VenueSection = () => {
         <p>{t("venue.intro")}</p>
         <article>
           <h3 className="headlineTwo">{t("venue.address_headline")}</h3>
-          <p>{t("venue.address_name")}</p>
+          <a
+            href="https://skjelbreidpoiree.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="border-b-1 border-white"
+          >
+            {t("venue.address_name")}
+          </a>
           <p>{t("venue.address")}</p>
         </article>
         <article>
