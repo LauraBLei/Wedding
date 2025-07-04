@@ -28,6 +28,8 @@
     "transport_skyss_android": "Download Skyss Appen her (for Android)",
     "transport_billett_iphone": "Download Skyss Billett Appen her (for iPhone)",
     "transport_billett_android": "Download Skyss Billett Appen her (for Android)",
+    "play_note": "Hvis linket ikke virker, så søg efter 'Skyss Reise' eller 'Skyss Billett' direkte i Google Play Butik appen.",
+    "ferry_headline": "Færge",
     "ferry": "Færgen går fra Venjaneset til Hatvik, klik her for mere information om færge priser og færge afgangs tider",
     "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset"
   },

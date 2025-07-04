@@ -90,6 +90,7 @@ export const VenueSection = () => {
                 </p>
               </a>
             </div>
+            <p className="text-xs text-gray-300 mt-2">{t("venue.play_note")}</p>
           </div>
         </article>
       </div>
