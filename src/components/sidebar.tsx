@@ -44,16 +44,19 @@ export const Sidebar = () => {
         >
           ×
         </button>
-        <nav className="mt-16 flex flex-col gap-4 px-8">
-          {sections.map((section) => (
-            <button
-              key={section.id}
-              className="text-lg text-left py-2 px-2 rounded hover:bg-customGreen w-full cursor-pointer transition"
-              onClick={() => handleNav(section.id)}
-            >
-              {section.label}
-            </button>
-          ))}
+        <nav className="pt-10 flex flex-col  px-8 h-full justify-between ">
+          <div>
+            {sections.map((section) => (
+              <button
+                key={section.id}
+                className="text-lg text-left py-2 px-2 rounded hover:bg-customBlack w-full cursor-pointer transition"
+                onClick={() => handleNav(section.id)}
+              >
+                {section.label}
+              </button>
+            ))}
+          </div>
+          <img className="ml-[-30px]" src="/flowers.png" alt="" />
         </nav>
       </div>
       {/* Overlay */}
