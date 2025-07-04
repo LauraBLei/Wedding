@@ -2,8 +2,21 @@
 
 /* Extend Tailwind's font-family using @layer directive */
 @theme {
-  --font-primary: "Abel", "sans-serif";
-  --font-secondary: "Rouge Script", cursive;
-  --color-customWhite: #f5f8ef;
+  --font-primary: "Maitree", serif;
+  --font-secondary: "Sacramento", cursive;
   --color-customGreen: #022d1d;
+  --color-customBlack: #202020;
+  --color-sidebarBlack: #272727;
+}
+
+.headline {
+  @apply text-lg pb-5 md:text-2xl lg:text-4xl py-2;
+}
+
+.headlineTwo {
+  @apply text-base py-1 md:text-lg lg:text-2xl border-b-1 border-white w-full mb-2;
+}
+
+.skyssLogo {
+  @apply w-6 md:w-10;
 }

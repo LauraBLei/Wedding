@@ -1,11 +1,11 @@
 import { Outlet } from "react-router";
-import { Header } from "./header";
+import { Sidebar } from "./sidebar";
 
 export const Layout = () => {
   return (
     <div className="w-full flex">
+      <Sidebar />
       <Outlet />
-      <Header />
     </div>
   );
 };

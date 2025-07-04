@@ -1,0 +1,87 @@
+{
+  "welcome": {
+    "headline": "Velkommen",
+    "date": "29. maj - 31. maj 2026"
+  },
+  "program": {
+    "headline": "Program",
+    "friday": "Fredag",
+    "saturday": "Lørdag",
+    "sunday": "Søndag",
+    "friday_stepOne": "15.30: indtjek",
+    "friday_stepTwo": "18.00: Aftensmad",
+    "saturday_stepOne": "Kommer snart!",
+    "sunday_stepOne": "9.00 - 11.00: Morgenmad",
+    "sunday_stepTwo": "11.30: Tjek ud"
+  },
+  "venue": {
+    "headline": "Lokation",
+    "intro": "Vi kan slet ikke vente med at fejre vores store dag sammen med jer på Skjelbreid Poiree. Det er et helt særligt sted med en hyggelig og intim stemning, og de smukke omgivelser gør det til det perfekte sted for vores mindeværdige bryllupsfest.",
+    "address_headline": "Adresse",
+    "address_name": "Skjeldbreid Poirée",
+    "address": "Rindakleivane 47, 5640 Eikelandsosen",
+    "parking_headline": "Parkering",
+    "parking": "Der er egen parkering lige ved stedet, så det er nemt at finde og parkere bilen.",
+    "transport_headline": "Offentlig transport",
+    "transport": "Det er muligt at tage offentlig transport så du ankommer tæt på lodgen, så kan vi altid arrangere hentning derfra. Vi anbefaler at downloade Skyss APP’en. Både Skyss og Skyss Billett. Ikke tøv med at spørge hvis du er i tvivl om hvilken bus rute der passer! Vi arrangerer også gerne hentning ved færgen, så skriv endelig til os, så finder ud af noget.",
+    "transport_skyss_iphone": "Download Skyss Appen her (for iPhone)",
+    "transport_skyss_android": "Download Skyss Appen her (for Android)",
+    "transport_billett_iphone": "Download Skyss Billett Appen her (for iPhone)",
+    "transport_billett_android": "Download Skyss Billett Appen her (for Android)"
+  },
+  "menu": {
+    "headline": "Menu",
+    "text": "Kommer snart"
+  },
+  "rooms": {
+    "headline": "Overnatning",
+    "textOne": "Der er mulighed for overnatning på lodgen, mod betaling.",
+    "textTwo": "Hvis du/i ønsker et værelse skal det skrives når i tilmelder jer! Vi reserverer de største værelser til børnefamilierne.",
+    "textThree": "Der er fælles bad og sauna i kælderen. Så selvom der ikke er bad på alle værelser, er der stadig mulighed for at bruge de fælles faciliteter.",
+    "textFour": "Derudover er der også udendørs spa, så ta endelig badetøj med!",
+    "table": {
+      "headers": ["Type", "Senge", "Bad", "Pris for weekenden"],
+      "rows": [
+        ["Standard", "1 dobbeltseng", "Ja", "2.000 NOK / 1.400 DKK"],
+        ["Alkove", "2 enkeltsenge", "Nej", "1.500 NOK / 1.050 DKK"]
+      ]
+    },
+    "small_text": "Af hensyn til børnefamilier vil standardværelserne som udgangspunkt blive tildelt dem først. ",
+    "small_text_two": "Inkluderet i prisen er: Morgenmad lørdag & søndag. Aftensmad fredag. - og evt snacks, frugt og drikke i løbet af weekenden."
+  },
+  "registration": {
+    "headline": "Tilmelding",
+    "text_one": "Vi glæder os til en hyggelig weekend med jer alle!",
+    "text_two": "Giv os en besked, hvis i kommer - og husk gerne at skrive følgende med:",
+    "list": [
+      "Hvor mange i kommer",
+      "Hvilket værelse i ønsker",
+      "Om i er med hele weekenden (fredag-søndag) eller kun lørdag.",
+      "Eventuelle allergier eller særlige hensyn."
+    ]
+  },
+  "extra": {
+    "headline": "Ekstra Information",
+    "subject_one": "Udstyr tilgængelig i lodgen",
+    "list_one": [
+      "Projektor",
+      "1 stk myggmikrofon",
+      "Gratis Wi-Fi",
+      "Højtalere i spisesal og i pejsestuen, kobles op men AUX",
+      "TV",
+      "2 luftmadrasser",
+      "1 barneseng"
+    ],
+    "subject_two": "Overnatning i nærheden",
+    "list_two": [
+      "Fusa camping (20 min kørsel med bil)",
+      "Bjørkheim kro og motel (30 min kørsel med bil)",
+      "Odd Skjelde Hytteutleige (7 min kørsel med bil)"
+    ]
+  },
+  "foto": {
+    "headline": "Fotogalleri",
+    "text_one": "Vi håber i vil dele de billeder i kommer til at tage henover weekenden med os! ",
+    "text_two": "I kan bruge det her link, eller scanne QR koden. "
+  }
+}
