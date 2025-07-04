@@ -1,3 +1,4 @@
+import { Ship } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 export const VenueSection = () => {
@@ -22,6 +23,19 @@ export const VenueSection = () => {
         <article>
           <h3 className="headlineTwo">{t("venue.parking_headline")}</h3>
           <p>{t("venue.parking")}</p>
+        </article>
+        <article>
+          <h3 className="headlineTwo">{t("venue.ferry_headline")}</h3>
+          <a
+            href={t("venue.ferry_link")}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex gap-5"
+          >
+            <p>{t("venue.ferry")}</p>
+
+            <Ship className="w-20 h-auto" />
+          </a>
         </article>
         <article>
           <h3 className="headlineTwo">{t("venue.transport_headline")}</h3>
