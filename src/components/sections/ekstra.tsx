@@ -8,7 +8,7 @@ export const EkstraSection = () => {
   return (
     <div>
       <h1 className="headline">{t("extra.headline")}</h1>
-      <div className="flex gap-10">
+      <div className="flex md:flex-row flex-col gap-10">
         <div className="flex-1">
           <h2 className="headlineTwo ">{t("extra.subject_one")}</h2>
           {Array.isArray(listOne) && listOne.length > 0 && (
