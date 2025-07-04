@@ -18,7 +18,7 @@ export const OvernatningSection = () => {
   if (!table.valid) table = getTable("rooms");
 
   return (
-    <div>
+    <div className="w-full relative">
       <div className="md:mr-50 lg:mr-70">
         <h1 className="headline mb-5">{t("rooms.headline")}</h1>
         <div className="flex flex-col gap-2">
