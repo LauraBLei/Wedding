@@ -2,9 +2,8 @@
 
 /* Extend Tailwind's font-family using @layer directive */
 @theme {
-  --font-primary: "Abel", "sans-serif";
-  --font-secondary: "Rouge Script", cursive;
-  --color-customWhite: #f5f8ef;
+  --font-primary: "Maitree", serif;
+  --font-secondary: "Sacramento", cursive;
   --color-customGreen: #022d1d;
   --color-customBlack: #202020;
   --color-sidebarBlack: #272727;
