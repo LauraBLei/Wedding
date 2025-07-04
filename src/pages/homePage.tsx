@@ -16,7 +16,10 @@ export const RunHomePage = () => {
       <section id="venue" className="max-w-[1440px] w-full px-5">
         <VenueSection />
       </section>
-      <section id="program" className="max-w-[1440px] w-full px-5">
+      <section
+        id="program"
+        className="max-w-[1440px] w-full px-5 bg-customGreen py-10 lg:py-20"
+      >
         {" "}
         <ProgramSection />
       </section>
