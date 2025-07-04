@@ -28,7 +28,7 @@ export const Sidebar = () => {
   return (
     <>
       <button
-        className="fixed top-4 left-4 scale-95 rounded-full bg-customBlack shadow-md hover:scale-100 p-2 cursor-pointer transition-transform duration-300"
+        className="fixed top-4 z-50 left-4 scale-95 rounded-full bg-customBlack shadow-md hover:scale-100 p-2 cursor-pointer transition-transform duration-300"
         onClick={() => setOpen(true)}
         aria-label="Open menu"
       >
