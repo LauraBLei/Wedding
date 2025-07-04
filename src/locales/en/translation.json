@@ -40,7 +40,7 @@
       "Any allergies or special considerations."
     ]
   },
-  "Rooms": {
+  "rooms": {
     "headline": "Accommodation",
     "textOne": "There is an option to stay at the lodge for a fee.",
     "textTwo": "If you want a room, please mention it when you register! We will reserve the largest rooms for families with children.",
@@ -56,7 +56,7 @@
     "small_text": "As a rule, standard rooms will be allocated to families with children first.",
     "small_text_two": "Included in the price: Breakfast Saturday & Sunday. Dinner Friday. And possibly snacks, fruit, and drinks during the weekend."
   },
-  "Extra": {
+  "extra": {
     "headline": "Extra Information",
     "subject_one": "Equipment available at the lodge",
     "list_one": [

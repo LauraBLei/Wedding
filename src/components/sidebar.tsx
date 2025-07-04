@@ -7,9 +7,9 @@ const sections = [
   { id: "venue", labelKey: "venue.headline" },
   { id: "program", labelKey: "program.headline" },
   { id: "menu", labelKey: "menu.headline" },
-  { id: "overnatning", labelKey: "Rooms.headline" },
+  { id: "overnatning", labelKey: "rooms.headline" },
   { id: "tilmelding", labelKey: "registration.headline" },
-  { id: "ekstra", labelKey: "Extra.headline" },
+  { id: "ekstra", labelKey: "extra.headline" },
   { id: "fotogalleri", labelKey: "foto.headline" },
 ];
 

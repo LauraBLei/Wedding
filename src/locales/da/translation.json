@@ -33,7 +33,7 @@
     "headline": "Menu",
     "text": "Kommer snart"
   },
-  "Rooms": {
+  "rooms": {
     "headline": "Overnatning",
     "textOne": "Der er mulighed for overnatning på lodgen, mod betaling.",
     "textTwo": "Hvis du/i ønsker et værelse skal det skrives når i tilmelder jer! Vi reserverer de største værelser til børnefamilierne.",
@@ -60,7 +60,7 @@
       "Eventuelle allergier eller særlige hensyn."
     ]
   },
-  "Extra": {
+  "extra": {
     "headline": "Ekstra Information",
     "subject_one": "Udstyr tilgængelig i lodgen",
     "list_one": [

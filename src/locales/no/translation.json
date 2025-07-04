@@ -40,7 +40,7 @@
       "Eventuelle allergier eller spesielle hensyn."
     ]
   },
-  "Rooms": {
+  "rooms": {
     "headline": "Overnatting",
     "textOne": "Det er mulig å overnatte på lodgen mot betaling.",
     "textTwo": "Hvis dere ønsker et rom, skriv det når dere melder dere på! Vi reserverer de største rommene til barnefamilier.",
@@ -56,7 +56,7 @@
     "small_text": "Av hensyn til barnefamilier vil standardrommene som hovedregel bli tildelt dem først.",
     "small_text_two": "Inkludert i prisen: Frokost lørdag & søndag. Middag fredag. Og eventuelt snacks, frukt og drikke i løpet av helgen."
   },
-  "Extra": {
+  "extra": {
     "headline": "Ekstra informasjon",
     "subject_one": "Utstyr tilgjengelig i lodgen",
     "list_one": [
