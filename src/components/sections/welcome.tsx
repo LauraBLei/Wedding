@@ -12,7 +12,7 @@ export const WelcomeSection = () => {
           alt=""
         />
 
-        <div className="flex flex-col text-sm md:text-2xl lg:text-3xl items-center md:gap-5 ">
+        <div className="flex pb-2 flex-col text-sm md:text-2xl lg:text-3xl items-center md:gap-5 ">
           <p className="flex gap-5 md:gap-10 lg:gap-20  items-center">
             <span>THE</span>
             <span className="font-secondary  text-4xl lg:text-8xl">
