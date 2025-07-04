@@ -10,11 +10,11 @@
 }
 
 .headline {
-  @apply text-lg md:text-2xl lg:text-4xl py-2;
+  @apply text-lg pb-5 md:text-2xl lg:text-4xl py-2;
 }
 
 .headlineTwo {
-  @apply text-base md:text-lg lg:text-2xl border-b-1 border-white w-full mb-2;
+  @apply text-base py-1 md:text-lg lg:text-2xl border-b-1 border-white w-full mb-2;
 }
 
 .skyssLogo {
