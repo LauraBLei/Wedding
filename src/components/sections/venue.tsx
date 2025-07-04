@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 export const VenueSection = () => {
   const { t } = useTranslation();
   return (
-    <div className="w-full flex flex-col lg:flex-row  gap-5">
+    <div className="w-full flex flex-col lg:flex-row items-center gap-5">
       <div className="flex-1 flex flex-col gap-5">
         <h2 className="headline text-center">{t("venue.headline")}</h2>
         <p>{t("venue.intro")}</p>
