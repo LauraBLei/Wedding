@@ -39,7 +39,10 @@ export const VenueSection = () => {
         </article>
         <article>
           <h3 className="headlineTwo">{t("venue.transport_headline")}</h3>
-          <p>{t("venue.transport")}</p>
+          <div className="flex flex-col gap-2">
+            <p>{t("venue.transport")}</p>
+            <p>{t("venue.transport_guide")}</p>
+          </div>
           <div className="flex flex-col gap-2 py-2">
             <div className="flex gap-5">
               <a

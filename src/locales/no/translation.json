@@ -31,7 +31,8 @@
     "play_note": "Hvis lenken ikke virker, søk etter 'Skyss Reise' eller 'Skyss Billett' direkte i Google Play Butikk-appen.",
     "ferry_headline": "Ferje",
     "ferry": "Fergen går fra Venjaneset til Hatvik, klikk her for mer informasjon om fergepriser og avgangstider",
-    "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset"
+    "ferry_link": "https://www.fjord1.no/Ruteoversikt/Vestland/hatvik-venjaneset",
+    "transport_guide": "Hvis du skal fra flyplassen til Skjeldbreid, heter reisen 'Flesland (Bergen Lufthavn, Bergen) til Rindakleivane 47, Bjørnafjorden (stoppet heter Skjelbreid)'. Du kan ikke ta bussen helt til lodgen, men den stopper 2 km unna."
   },
   "registration": {
     "headline": "Påmelding",
