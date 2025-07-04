@@ -60,10 +60,10 @@ export const Sidebar = () => {
             <div className="mt-6 flex gap-2 flex-col text-sm md:text-lg">
               <button
                 onClick={() => i18n.changeLanguage("da")}
-                className={`px-2 py-1 rounded text-sm border flex items-center gap-1 ${
+                className={`px-2 py-1 rounded text-sm  flex cursor-pointer items-center gap-1 ${
                   i18n.language === "da"
                     ? "bg-white text-black font-bold"
-                    : "bg-sidebarBlack text-white border-white"
+                    : "bg-sidebarBlack text-white "
                 }`}
               >
                 <img src="/flags/dk.webp" alt="Dansk" className="w-5 h-5" />{" "}
@@ -71,10 +71,10 @@ export const Sidebar = () => {
               </button>
               <button
                 onClick={() => i18n.changeLanguage("no")}
-                className={`px-2 py-1 rounded text-sm border flex items-center gap-1 ${
+                className={`px-2 py-1 rounded text-sm flex cursor-pointer items-center gap-1 ${
                   i18n.language === "no"
                     ? "bg-white text-black font-bold"
-                    : "bg-sidebarBlack text-white border-white"
+                    : "bg-sidebarBlack text-white "
                 }`}
               >
                 <img src="/flags/no.png" alt="Norsk" className="w-5 h-5" />{" "}
@@ -82,10 +82,10 @@ export const Sidebar = () => {
               </button>
               <button
                 onClick={() => i18n.changeLanguage("en")}
-                className={`px-2 py-1 rounded text-sm border flex items-center gap-1 ${
+                className={`px-2 py-1 rounded text-sm flex cursor-pointer items-center gap-1 ${
                   i18n.language === "en"
                     ? "bg-white text-black font-bold"
-                    : "bg-sidebarBlack text-white border-white"
+                    : "bg-sidebarBlack text-white"
                 }`}
               >
                 <img src="/flags/gb.webp" alt="English" className="w-5 h-5" />{" "}
