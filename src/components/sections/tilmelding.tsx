@@ -18,7 +18,7 @@ export const TilmeldingSection = () => {
           </ul>
         )}
       </div>
-      <div className="flex-1 w-full overflow-hidden">
+      <div className="flex-1 w-full overflow-hidden h-full">
         <img className="w-full h-full object-cover" src="/os.png" alt="" />
       </div>
     </div>
