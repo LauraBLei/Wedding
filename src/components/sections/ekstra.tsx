@@ -8,7 +8,7 @@ export const EkstraSection = () => {
   return (
     <div>
       <h1 className="headline">{t("extra.headline")}</h1>
-      <div className="flex md:flex-row flex-col gap-10">
+      <div className="flex md:flex-row flex-col md:gap-10 gap-5 lg:gap-24">
         <div className="flex-1">
           <h2 className="headlineTwo ">{t("extra.subject_one")}</h2>
           {Array.isArray(listOne) && listOne.length > 0 && (
@@ -30,6 +30,7 @@ export const EkstraSection = () => {
           )}
         </div>
       </div>
+      <div className="w-full max-w-[700px] place-self-center border-b-1 mt-20 border-white"></div>
     </div>
   );
 };
