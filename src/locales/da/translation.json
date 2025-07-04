@@ -73,11 +73,17 @@
       "1 barneseng"
     ],
     "subject_two": "Overnatning i nærheden",
-    "list_two": [
-      "Fusa camping (20 min kørsel med bil)",
-      "Bjørkheim kro og motel (30 min kørsel med bil)",
-      "Odd Skjelde Hytteutleige (7 min kørsel med bil)"
-    ]
+
+    "first_text": "Fusa camping (20 min kørsel med bil)",
+    "first_link": "https://campio.no/nb/campsite/fusa-camping",
+    "second_text": "Bjørkheim kro og motel (30 min kørsel med bil)",
+    "second_link": "https://bjorkheim.no/",
+    "third_text": "Odd Skjelde Hytteutleige (7 min kørsel med bil)",
+    "third_link_one": "https://www.airbnb.no/rooms/37215290?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-06-28&check_out=2024-07-05&source_impression_id=p3_1706194913_yYD27wdXt0XVROpo&previous_page_section_name=1000&federated_search_id=b34529b7-a958-49d5-8c0c-2fb373f3e5cb",
+    "third_link_two": "https://www.airbnb.no/rooms/37214391?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-06-01&check_out=2024-06-08&source_impression_id=p3_1706194913_e4BQ%2FFW7GbuA3kjG&previous_page_section_name=1000&federated_search_id=b34529b7-a958-49d5-8c0c-2fb373f3e5cb",
+    "third_link_three": "https://www.airbnb.no/rooms/37214567?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&check_in=2024-06-22&check_out=2024-06-29&source_impression_id=p3_1706194913_2FLKk9mZOJWTmH1s&previous_page_section_name=1000&federated_search_id=b34529b7-a958-49d5-8c0c-2fb373f3e5cb",
+
+    "small_text": "Vi anbefaler at bestille overnatning tidligt, da det kan blive fyldt op mod weekenden."
   },
   "foto": {
     "headline": "Fotogalleri",
