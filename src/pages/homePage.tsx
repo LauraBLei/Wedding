@@ -10,7 +10,7 @@ import { WelcomeSection } from "../components/sections/welcome";
 export const RunHomePage = () => {
   return (
     <div className="w-full flex font-primary text-white flex-col items-center gap-10">
-      <section id="welcome" className="max-w-[1440px] w-full px-5">
+      <section id="welcome" className="max-w-[1440px] w-full">
         <WelcomeSection />
       </section>
       <section id="venue" className="max-w-[1440px] w-full px-5">
