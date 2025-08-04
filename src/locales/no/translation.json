@@ -1,7 +1,8 @@
 {
   "welcome": {
     "headline": "Velkommen",
-    "date": "29. mai - 31. mai 2026"
+    "date": "29. mai - 31. mai 2026",
+    "text": "Vi er allerede gift på rådhuset, men nå mangler vi den store feiringen! Derfor vil vi gjerne invitere dere til å feire kjærligheten sammen med oss. Vi gleder oss til å gi hverandre våre løfter og vielsesringer for første gang – og ikke minst til en dag fylt med god mat, hyggelig selskap og festlige stunder."
   },
   "program": {
     "headline": "Program",
@@ -58,6 +59,7 @@
     "textTwo": "Hvis dere ønsker et rom, skriv det når dere melder dere på! Vi reserverer de største rommene til barnefamilier.",
     "textThree": "Det er felles bad og badstue i kjelleren. Så selv om det ikke er bad på alle rom, kan dere bruke de felles fasilitetene.",
     "textFour": "Det er også utendørs spa, så ta gjerne med badetøy!",
+    "other": "Det finnes andre overnattingsmuligheter i nærheten – se mer under 'Ekstra informasjon'",
     "table": {
       "headers": ["Type", "Senger", "Bad", "Pris for helgen"],
       "rows": [

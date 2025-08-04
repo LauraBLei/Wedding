@@ -1,7 +1,8 @@
 {
   "welcome": {
     "headline": "Welcome",
-    "date": "29 May - 31 May 2026"
+    "date": "29 May - 31 May 2026",
+    "text": "We are already married at the town hall, but now we are missing the big celebration! That’s why we would like to invite you to join us in celebrating our love. We look forward to exchanging our vows and wedding rings for the first time – and of course to a wonderful day filled with good food, great company, and festive moments."
   },
   "program": {
     "headline": "Program",
@@ -58,6 +59,7 @@
     "textTwo": "If you want a room, please mention it when you register! We will reserve the largest rooms for families with children.",
     "textThree": "There are shared bathrooms and a sauna in the basement. So even if not all rooms have a private bathroom, you can still use the shared facilities.",
     "textFour": "There is also an outdoor spa, so bring your swimwear!",
+    "other": "There are other accommodation options nearby – see more under 'Extra Information'",
     "table": {
       "headers": ["Type", "Beds", "Bathroom", "Price for the weekend"],
       "rows": [

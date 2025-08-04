@@ -1,7 +1,8 @@
 {
   "welcome": {
     "headline": "Velkommen",
-    "date": "29. maj - 31. maj 2026"
+    "date": "29. maj - 31. maj 2026",
+    "text": "Vi er allerede blevet gift på rådhuset, men nu mangler vi den store fejring! Derfor vil vi gerne invitere jer til at fejre vores kærlighed sammen med os. Vi glæder os til at give hinanden vores løfter og vielsesringe for første gang – og ikke mindst til en dag fyldt med god mad, dejligt selskab og festlige stunder."
   },
   "program": {
     "headline": "Program",
@@ -50,6 +51,7 @@
     "textTwo": "Hvis du/i ønsker et værelse skal det skrives når i tilmelder jer! Vi reserverer de største værelser til børnefamilierne.",
     "textThree": "Der er fælles bad og sauna i kælderen. Så selvom der ikke er bad på alle værelser, er der stadig mulighed for at bruge de fælles faciliteter.",
     "textFour": "Derudover er der også udendørs spa, så ta endelig badetøj med!",
+    "other": "Der findes andre overnatnings muligheder i nærheden - se mere under 'Ekstra Information'",
     "table": {
       "headers": ["Type", "Senge", "Bad", "Pris for weekenden"],
       "rows": [
