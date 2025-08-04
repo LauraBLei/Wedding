@@ -7,6 +7,7 @@ export const VenueSection = () => {
     <div className="w-full flex flex-col lg:flex-row items-center gap-5">
       <div className="flex-1 flex flex-col gap-5">
         <h2 className="headline text-center">{t("venue.headline")}</h2>
+        <p>{t("welcome.text")}</p>
         <p>{t("venue.intro")}</p>
         <article>
           <h3 className="headlineTwo">{t("venue.address_headline")}</h3>

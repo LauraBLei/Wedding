@@ -26,6 +26,7 @@ export const OvernatningSection = () => {
           <p>{t("rooms.textTwo")}</p>
           <p>{t("rooms.textThree")}</p>
           <p>{t("rooms.textFour")}</p>
+          <p>{t("rooms.other")}</p>
         </div>
         <div className="overflow-x-auto mt-6 mb-4 text-xs md:text-lg">
           {table.valid ? (
