@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import { useState, useEffect } from "react";
 
 export const WelcomeSection = () => {
   const { t } = useTranslation();
@@ -24,6 +25,7 @@ export const WelcomeSection = () => {
             LAURA & LASSE
           </p>
           <p>{t("welcome.date")}</p>
+          <DaysCountdown targetDate={new Date("2026-05-30")} />
         </div>
 
         <img
@@ -42,3 +44,27 @@ export const WelcomeSection = () => {
     </div>
   );
 };
+
+// Simple days countdown component
+function DaysCountdown({ targetDate }: { targetDate: Date }) {
+  const [daysLeft, setDaysLeft] = useState(() => {
+    const now = new Date();
+    const diff = targetDate.getTime() - now.getTime();
+    return Math.max(0, Math.ceil(diff / (1000 * 60 * 60 * 24)));
+  });
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      const now = new Date();
+      const diff = targetDate.getTime() - now.getTime();
+      setDaysLeft(Math.max(0, Math.ceil(diff / (1000 * 60 * 60 * 24))));
+    }, 60 * 60 * 1000); // update every hour
+    return () => clearInterval(interval);
+  }, [targetDate]);
+
+  return (
+    <div className="font-bold text-yellow-600 text-base md:text-3xl py-1 md:py-2">
+      {daysLeft} day{daysLeft !== 1 ? "s" : ""} to go!
+    </div>
+  );
+}
