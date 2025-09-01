@@ -28,11 +28,11 @@ export const Sidebar = () => {
   return (
     <>
       <button
-        className="fixed top-4 z-40 left-4 scale-95 rounded-full bg-customBlack shadow-md hover:scale-100 p-2 cursor-pointer transition-transform duration-300"
+        className="fixed top-4 z-40 left-4 scale-95 rounded-full bg-customBlack  shadow-md hover:scale-100 p-2 cursor-pointer transition-transform duration-300"
         onClick={() => setOpen(true)}
         aria-label="Open menu"
       >
-        <MenuIcon className="text-white" />
+        <MenuIcon className="text-white md:w-10 md:h-10 " />
       </button>
       <div
         className={`fixed top-0 left-0 h-full w-64 bg-sidebarBlack  shadow-lg text-white z-40 transform transition-transform duration-300 ${
