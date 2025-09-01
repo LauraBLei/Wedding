@@ -1,4 +1,4 @@
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, ExternalLink } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 export const EkstraSection = () => {
@@ -30,7 +30,7 @@ export const EkstraSection = () => {
                 className="flex gap-2"
               >
                 {t("extra.first_text")}
-                <ArrowRight />
+                <ExternalLink />
               </a>
             </li>
             <li>
@@ -41,7 +41,7 @@ export const EkstraSection = () => {
                 className="flex gap-2"
               >
                 {t("extra.second_text")}
-                <ArrowRight />
+                <ExternalLink />
               </a>
             </li>
             <li>{t("extra.third_text")}</li>
@@ -54,7 +54,7 @@ export const EkstraSection = () => {
                   className="flex gap-2"
                 >
                   Julie by Interhome
-                  <ArrowRight />
+                  <ExternalLink />
                 </a>
               </li>
               <li>
@@ -65,7 +65,7 @@ export const EkstraSection = () => {
                   className="flex gap-2"
                 >
                   Elisabeth by Interhome
-                  <ArrowRight />
+                  <ExternalLink />
                 </a>
               </li>
               <li>
@@ -77,7 +77,7 @@ export const EkstraSection = () => {
                   className="flex gap-2"
                 >
                   Anna by Interhome
-                  <ArrowRight />
+                  <ExternalLink />
                 </a>
               </li>
             </ul>
