@@ -1,3 +1,4 @@
+import { ArrowRight } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 export const EkstraSection = () => {
@@ -26,8 +27,10 @@ export const EkstraSection = () => {
                 href={t("extra.first_link")}
                 target="_blank"
                 rel="noopener noreferrer"
+                className="flex gap-2"
               >
                 {t("extra.first_text")}
+                <ArrowRight />
               </a>
             </li>
             <li>
@@ -35,8 +38,10 @@ export const EkstraSection = () => {
                 href={t("extra.second_link")}
                 target="_blank"
                 rel="noopener noreferrer"
+                className="flex gap-2"
               >
                 {t("extra.second_text")}
+                <ArrowRight />
               </a>
             </li>
             <li>{t("extra.third_text")}</li>
@@ -46,8 +51,10 @@ export const EkstraSection = () => {
                   href={t("extra.third_link_one")}
                   target="_blank"
                   rel="noopener noreferrer"
+                  className="flex gap-2"
                 >
                   Julie by Interhome
+                  <ArrowRight />
                 </a>
               </li>
               <li>
@@ -55,8 +62,10 @@ export const EkstraSection = () => {
                   href={t("extra.third_link_two")}
                   target="_blank"
                   rel="noopener noreferrer"
+                  className="flex gap-2"
                 >
                   Elisabeth by Interhome
+                  <ArrowRight />
                 </a>
               </li>
               <li>
@@ -65,8 +74,10 @@ export const EkstraSection = () => {
                   href={t("extra.third_link_three")}
                   target="_blank"
                   rel="noopener noreferrer"
+                  className="flex gap-2"
                 >
                   Anna by Interhome
+                  <ArrowRight />
                 </a>
               </li>
             </ul>
