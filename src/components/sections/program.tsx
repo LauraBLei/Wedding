@@ -14,9 +14,15 @@ export const ProgramSection = () => {
             <li>{t("program.friday_stepTwo")}</li>
           </ul>
         </div>
-        <div className="flex-1">
+        <div className="flex-1 gap-10">
           <h2 className="headlineTwo">{t("program.saturday")}</h2>
-          <p className="text-center">{t("program.saturday_stepOne")}</p>
+          <ul className="flex flex-col gap-2">
+            <li>{t("program.saturday_stepOne")}</li>
+            <li>{t("program.saturday_stepTwo")}</li>
+            <li>{t("program.saturday_stepThree")}</li>
+            <li>{t("program.saturday_stepFour")}</li>
+            <li>{t("program.saturday_stepFive")}</li>
+          </ul>
         </div>
         <div className="flex-1">
           <h2 className="headlineTwo">{t("program.sunday")}</h2>

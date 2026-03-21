@@ -11,7 +11,11 @@
     "sunday": "Søndag",
     "friday_stepOne": "15.30: Innsjekk",
     "friday_stepTwo": "18.00: Middag",
-    "saturday_stepOne": "Kommer snart!",
+    "saturday_stepOne": "12.30: Ankomst",
+    "saturday_stepTwo": "13.00: Vielse",
+    "saturday_stepThree": "14.00: Velkomstdrink, foto og hygge",
+    "saturday_stepFour": "17.00: Middag",
+    "saturday_stepFive": "00.00: Nattmat",
     "sunday_stepOne": "8.00 - 11.00: Frokost",
     "sunday_stepTwo": "11.30: Utsjekk"
   },
@@ -72,6 +76,9 @@
   },
   "extra": {
     "headline": "Ekstra informasjon",
+    "ønskerHeadline": "Ønsker",
+    "ØnskerTekst": "Vi er allerede viet, men vi gleder oss veldig til å feire kjærligheten med dere på festen. Noen av dere har allerede skjemt oss bort med en gave, og det er vi utrolig takknemlige for. Hvis du har lyst til å gi en gave i forbindelse med feiringen, har vi samlet ønskene våre her. Din tilstedeværelse betyr aller mest for oss, så ønskelisten er helt frivillig.",
+    "ØnskerButton": "Se ønskelisten her",
     "subject_one": "Utstyr tilgjengelig i lodgen",
     "list_one": [
       "Projektor",
@@ -104,6 +111,13 @@
   },
   "menu": {
     "headline": "Meny",
-    "text": "Kommer snart"
+    "ForretHeadline": "Forrett",
+    "ForretMat": "Blomkålsuppe",
+    "HovedretHeadline": "Hovedrett",
+    "HovedretMat": "Oksekjøtt med fløtepoteter",
+    "DessertHeadline": "Dessert",
+    "DessertMat": "Brownie med jordbær og sitronsorbet",
+    "TilBørnHeadline": "For barna:",
+    "TilBørnMat": "Pizza"
   }
 }

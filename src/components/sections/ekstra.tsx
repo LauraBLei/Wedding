@@ -8,6 +8,21 @@ export const EkstraSection = () => {
   return (
     <div>
       <h1 className="headline">{t("extra.headline")}</h1>
+      <div className="mb-8 rounded-2xl border border-white/40 bg-white/5 p-5 md:mb-12 md:p-8">
+        <h2 className="headlineTwo mb-2">{t("extra.ønskerHeadline")}</h2>
+        <p className="py-3 leading-relaxed md:text-lg">
+          {t("extra.ØnskerTekst")}
+        </p>
+        <a
+          href="https://onskeskyen.no/s/epe04p"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-3 inline-flex items-center gap-2 rounded-full border border-white px-5 py-2"
+        >
+          {t("extra.ØnskerButton")}
+          <ExternalLink className="h-4 w-4" />
+        </a>
+      </div>
       <div className="flex md:flex-row flex-col md:gap-10 gap-5 lg:gap-24">
         <div className="flex-1">
           <h2 className="headlineTwo ">{t("extra.subject_one")}</h2>
@@ -84,7 +99,6 @@ export const EkstraSection = () => {
           </ul>
         </div>
       </div>
-      <div className="w-full max-w-[700px] place-self-center border-b-1 mt-20 border-white"></div>
     </div>
   );
 };

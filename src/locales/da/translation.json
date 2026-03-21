@@ -9,10 +9,14 @@
     "friday": "Fredag",
     "saturday": "Lørdag",
     "sunday": "Søndag",
-    "friday_stepOne": "15.30: indtjek",
-    "friday_stepTwo": "18.00: Aftensmad",
-    "saturday_stepOne": "Kommer snart!",
-    "sunday_stepOne": "8.00 - 11.00: Morgenmad",
+    "friday_stepOne": "15:30: indtjek",
+    "friday_stepTwo": "18:00: Aftensmad",
+    "saturday_stepOne": "12:30: Ankomst",
+    "saturday_stepTwo": "13:00: Vielse",
+    "saturday_stepThree": "14:00: Velkomstdrink, Foto & Hygge ",
+    "saturday_stepFour": "17:00: Middag",
+    "saturday_stepFive": "00:00: Natmad",
+    "sunday_stepOne": "8:00 - 11.00: Morgenmad",
     "sunday_stepTwo": "11.30: Tjek ud"
   },
   "venue": {
@@ -43,7 +47,14 @@
   },
   "menu": {
     "headline": "Menu",
-    "text": "Kommer snart"
+    "ForretHeadline": "Forret",
+    "ForretMat": "Blomkålssuppe",
+    "HovedretHeadline": "Hovedret",
+    "HovedretMat": "Oksekød med flødekartofler",
+    "DessertHeadline": "Dessert",
+    "DessertMat": "Brownie med jordbær og citronsorbet",
+    "TilBørnHeadline": "Til børnene:",
+    "TilBørnMat": "Pizza"
   },
   "rooms": {
     "headline": "Overnatning",
@@ -76,6 +87,9 @@
   },
   "extra": {
     "headline": "Ekstra Information",
+    "ønskerHeadline": "Ønsker",
+    "ØnskerTekst": "Vi er allerede blevet viet, men glæder os meget til at fejre kærligheden med jer til festen. Nogle af jer har allerede forkælet os med en gave, og det er vi utrolig taknemmelige for. Hvis du har lyst til at give en gave i forbindelse med festen, har vi samlet vores ønsker her. Din tilstedeværelse betyder allermest for os, så ønskelisten er helt frivillig.",
+    "ØnskerButton": "Se ønsker her",
     "subject_one": "Udstyr tilgængelig i lodgen",
     "list_one": [
       "Projektor",

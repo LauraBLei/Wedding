@@ -11,7 +11,11 @@
     "sunday": "Sunday",
     "friday_stepOne": "3:30 PM: Check-in",
     "friday_stepTwo": "6:00 PM: Dinner",
-    "saturday_stepOne": "Coming soon!",
+    "saturday_stepOne": "12:30 PM: Arrival",
+    "saturday_stepTwo": "1:00 PM: Ceremony",
+    "saturday_stepThree": "2:00 PM: Welcome drink, photos & cozy time",
+    "saturday_stepFour": "5:00 PM: Dinner",
+    "saturday_stepFive": "12:00 AM: Late-night snack",
     "sunday_stepOne": "8:00 - 11:00 AM: Breakfast",
     "sunday_stepTwo": "11:30 AM: Check-out"
   },
@@ -72,6 +76,9 @@
   },
   "extra": {
     "headline": "Extra Information",
+    "ønskerHeadline": "Wishlist",
+    "ØnskerTekst": "We are already married, but we are very excited to celebrate our love with you at the party. Some of you have already spoiled us with a gift, and we are incredibly grateful for that. If you would like to give a gift in connection with the celebration, we have gathered our wishes here. Your presence means the most to us, so the wishlist is completely optional.",
+    "ØnskerButton": "See wishlist here",
     "subject_one": "Equipment available at the lodge",
     "list_one": [
       "Projector",
@@ -102,6 +109,13 @@
   },
   "menu": {
     "headline": "Menu",
-    "text": "Coming soon"
+    "ForretHeadline": "Starter",
+    "ForretMat": "Cauliflower soup",
+    "HovedretHeadline": "Main course",
+    "HovedretMat": "Beef with creamy potatoes",
+    "DessertHeadline": "Dessert",
+    "DessertMat": "Brownie with strawberries and lemon sorbet",
+    "TilBørnHeadline": "For the children:",
+    "TilBørnMat": "Pizza"
   }
 }
