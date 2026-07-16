@@ -1,9 +1,9 @@
 import "./index.css";
 import "./fonts.css";
-import { LoadingScreen } from "./components/loadingScreen";
+import { MemorialPage } from "./pages/memorialPage";
 
 function App() {
-  return <LoadingScreen />;
+  return <MemorialPage />;
 }
 
 export default App;

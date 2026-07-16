@@ -1,8 +1,235 @@
-﻿{
+{
   "loading": {
     "pleaseWait": "Please wait...",
     "title": "Wedding Loading",
     "maintenance": "This page is currently under maintenance.",
     "soon": "We're working on turning this into a memorial page for the wedding. Photos and memories will be shared here soon — stay tuned!"
+  },
+  "ceremony": {
+    "sections": [
+      {
+        "title": "Welcome",
+        "texts": [
+          "Welcome everyone — and a huge thank you for being here today to celebrate Laura and Lasse.",
+          "It means the world to them to have their family and friends gathered around them on this day.",
+          "Before we begin, the couple has one simple wish: that we all put our phones away — not just during the ceremony, but ideally for the whole day — so we can all switch off a little, be present in the moment and enjoy the day together with Laura and Lasse.",
+          "Luckily there is a photographer present, so the day will be captured.",
+          "After the ceremony, we would ask all guests to make their way up to the lodge at the Fireplace Lounge. Hilde and Lise will show the way. We would however ask parents and siblings to stay after the ceremony for photos with the couple.",
+          "Up at the Fireplace Lounge there will be a little to eat and drink, time to mingle — and I can only recommend that you also take some time to enjoy the beautiful surroundings here.",
+          "And now we are going to hear a little about the story of Laura and Lasse — a story that in quite an unlikely way began with an online computer game."
+        ]
+      },
+      {
+        "title": "The Speech",
+        "texts": [
+          "Dear Laura and Lasse.",
+          "If someone had said a few years ago that an online computer game would lead to love, moving to Norway, a town hall wedding in Bergen and an entire family saying 'tompe'… I think maybe we all would have been a little sceptical.",
+          "And yet here we all are today.",
+          "Because what were the chances? 20-30 servers. Thousands of players. The right game. The right server. The right moment.",
+          "And then Laura of course meets Lasse. The man with all the money in the game.",
+          "Laura apparently thought: 'I'd better become friends with him.' Lasse on the other hand believed he could get away with not talking by simply saying his microphone wasn't working.",
+          "He couldn't.",
+          "Because Laura doesn't give up that easily.",
+          "And thankfully for that.",
+          "Because after just a couple of weeks, something very special began between the two of you. You talked constantly. Even at night you slept with the microphone on, just to be close to each other. And when Laura got Lasse on Snapchat to make sure he was actually a real person, it wasn't long before she travelled to Bergen to meet him.",
+          "And there it became real.",
+          "It felt right immediately. Natural. Safe.",
+          "So right, in fact, that after just a few days Laura said 'I love you' while you stood on Fløyen by Norway's tallest tree. And since then you have said:",
+          "'I love you higher than Norway's tallest tree.'",
+          "The following summer you spent many weeks together, while Laura was a student with a long summer holiday. After that it simply became too hard to be apart. Laura took a huge leap, left her studies and moved to Norway. It wasn't always easy. New surroundings, new plans and new dreams.",
+          "But something very beautiful happened along the way.",
+          "Laura found her path. And Lasse was there by her side the whole time.",
+          "Because that is what you are: a team.",
+          "You are good at communicating. Good at listening. Good at meeting each other where the other person is. You complement each other in the way the best couples do.",
+          "Laura dreams big — and Lasse helps keep her feet a little on the ground without ever taking away her dreams.",
+          "And Laura in turn makes sure Lasse gets a little push forward in life when he needs it. Even if that may have made it a little harder for him to save money, since the Dane came into the picture.",
+          "You have created your very own little universe together. With 'blob'. With 'tompe'. With gaming, audiobooks, walks and inside jokes about cocoa tins in the wrong cupboards.",
+          "And maybe that is exactly what love is.",
+          "Not big perfect moments all the time — but small things that become a shared language and a shared home.",
+          "Today you will exchange rings. A symbol that you choose each other. Even when you are apart. Even when life changes.",
+          "And maybe that is precisely what makes your love so strong: that from the very beginning you have actively chosen each other. Despite distance, doubt and big decisions.",
+          "Laura and Lasse — thank you for letting us be witnesses to your love and your story.",
+          "Congratulations to each other. And I hope you will always love each other higher than Norway's tallest tree."
+        ]
+      },
+      {
+        "title": "Transition to Vows",
+        "texts": [
+          "Laura and Lasse —",
+          "You have already shown through your actions that you choose each other. Today you also get the chance to put that into words.",
+          "So now I would like to invite you to share your vows with each other."
+        ]
+      },
+      {
+        "title": "Ring Exchange",
+        "texts": [
+          "Thank you.",
+          "The rings are a symbol of what you promise each other today. A symbol of love, togetherness and the life you choose to build together.",
+          "Laura and Lasse — please take each other's hands.",
+          "Lasse, will you place the ring on Laura's finger and repeat after me:",
+          "'I choose you — today, tomorrow and all the days to come.'",
+          "'You are my best friend, my safe place and my home.'",
+          "Laura, will you place the ring on Lasse's finger and repeat after me:",
+          "'I choose you — today, tomorrow and all the days to come.'",
+          "'You are my best friend, my safe place and my home.'"
+        ]
+      },
+      {
+        "title": "Closing",
+        "texts": [
+          "Laura and Lasse —",
+          "You have now shared your vows and given each other rings as a symbol of your love and your life together.",
+          "And so it is now my great pleasure to present you as a married couple.",
+          "You may kiss each other.",
+          "Congratulations to Laura and Lasse!",
+          "And to you all: thank you so much for being part of celebrating them today.",
+          "We would now ask all guests to make their way up to the lodge at the Fireplace Lounge, where there will be a little to eat and drink, and the chance to socialise and enjoy the surroundings. Hilde and Lise will show the way.",
+          "Parents and siblings are very welcome to stay here a little longer for photos with the couple."
+        ]
+      }
+    ]
+  },
+  "vows": {
+    "lasse": {
+      "name": "Lasse",
+      "texts": [
+        "It's still a little strange to think about how randomly it all started. That a lost Chocobo would find you. But of all the coincidences in my life, you are by far the best one.",
+        "It didn't take long before we were talking every day. There was something about you that felt safe and good, and it was easy to talk to you about everything. And gradually you became not just someone I wanted to talk to every day — you became my home.",
+        "I love the life we have together. I love how we can spend every day together without getting tired of each other. The way you show that you love me — whether it's by making something delicious, by cuddling up to me when we watch a film, or the way you understand me like no one else can.",
+        "I could never have imagined how much one person could mean to me before I met you. When I'm with you, I can always be myself. You make even the ordinary days into days to look forward to. And that is the love I want to spend the rest of my life taking care of.",
+        "I promise to be there for you every day. Whether it's laughing together on good days, or crying together on bad ones. I want to be the person you can lean on, trust, and find comfort in. Because I know that as long as we are together, we can get through anything.",
+        "Because no matter how life turns out from here, there is no one I would rather go through it with than you. You are my best friend, my biggest Tompe, and the person I want to share the rest of my life with."
+      ]
+    },
+    "laura": {
+      "name": "Laura",
+      "texts": [
+        "Dear Lasse.",
+        "When I first met you, it wasn't easy to get you to open up. But when you finally did, my world became so much better.",
+        "Right from the start, when I was going through my greatest grief, you became a ray of light for me. You made me smile when things were hard, and reminded me that there was still joy to be found in the middle of all the heaviness.",
+        "Since then, life has changed a lot. I moved up here, changed my studies, and new challenges came along. But no matter what, you have always said: 'We'll figure it out together.' And we have — again and again.",
+        "I love that you are always so calm and grounded. You are good at bringing me back down when I'm flying too high. And in turn, I take you up to fly with me every now and then.",
+        "Because of you, I have learned to live more in the moment, to enjoy things more, and not to focus too much on the future. Because it will come.",
+        "I love that you can always make me smile and laugh, even on the bad days.",
+        "I hope we never stop goofing around together. That we never stop being total tompers.",
+        "So Lasse, I promise you:",
+        "That I will always dream enough for both of us.",
+        "That I will always challenge you — both in everyday life and when it comes to new experiences.",
+        "That I will always support you and love you through thick and thin.",
+        "Because I know that together with you, anything is possible."
+      ]
+    }
+  },
+  "speeches": [
+    {
+      "speaker": "Bård",
+      "image": "speeches/bård.jpg",
+      "images": [],
+      "texts": [
+        "Dear Lasse and Laura, family and friends.",
+        "For those of you who don't know me, I'm Bård, Lasse's brother.",
+        "Even though we perhaps weren't the calmest or most harmonious, we always had Joakim to blame when we fought. What I'm left with is that we've always had a strong bond and been there for each other.",
+        "Lasse has always gone his own way, been independent, goal-driven – and that's exactly why it's so wonderful to see who he has chosen to share his life with.",
+        "Laura, you are an incredibly good match for Lasse. You bring warmth, security and so much joy into his life, and it's clear that you two have something very special together.",
+        "I am so happy on your behalf. I wish you a life filled with love, laughter and good memories.",
+        "Congratulations on your day, Lasse and Laura. Cheers!"
+      ]
+    },
+    {
+      "speaker": "Ina",
+      "image": "speeches/ina.jpg",
+      "images": [],
+      "texts": [
+        "My best Danish friend, Laura.",
+        "We haven't known each other for that long. We met through online studies, but it wasn't until the very end of our last year together that we really got to know each other — about a year ago. We quickly clicked and had a lot in common, for better and for worse. You have always been easy to talk to, except when there's a Danish word I don't understand. We quickly became very close friends, and today you are my best Danish friend.",
+        "Not only that — I'm so lucky to also be able to call you my favourite colleague. Naturally, after graduating, we were both looking for jobs in Bergen. It was a slow process, but suddenly we both received invitations to interview at the same company.",
+        "We were overjoyed to get the interview, but it was also a little nerve-wracking because we had to compete against each other. But we told each other that as long as one of us gets the job, we'll be happy.",
+        "Dreams can come true, and they did — we were simply so good in the interviews that they had to hire us both.",
+        "In the short time I've known you, I've seen and experienced that you are incredibly kind to everyone around you. You never hesitate to help others. You are just as beautiful on the inside as you are on the outside. Thank you for being who you are!",
+        "Lasse is lucky to have you, and you are lucky to have each other. Keep being supportive, thoughtful and good to one another. Cheers to the bride and groom, and to love!"
+      ]
+    },
+    {
+      "speaker": "Laila",
+      "image": "speeches/mor.jpg",
+      "images": [],
+      "texts": [
+        "Dear Laura and Lasse.",
+        "Today is a very special day. Even though you already said yes to each other on 19 September 2024, it is wonderful to finally be able to celebrate it with the whole family and all your friends here today in May 2026.",
+        "Laura, you have always gone your own way. From your childhood in Sønderborg to your time in Ikast, where the computer and screen took up a lot of space. Back then I perhaps just thought you were gaming, but in reality you were building a bridge across Skagerrak! It takes courage to pack up your life and travel to Bergen to meet someone you've met in a virtual world. But once you had visited Lasse, there was no doubt: you were going to move to Norway.",
+        "Today you have both landed in exactly the right place within IT. Lasse, you have been in the field for longer and have your daily life at the bank, while you, Laura, have now also brilliantly completed your education and found your place at an IT company. One might say that you speak the same language, both when it comes to love and source code.",
+        "When you were married at the town hall back in September 2024, I was unfortunately unable to be there in Bergen myself. It was hard not to be able to stand by your side, Laura. But in the midst of all things digital that brought you two together, something beautiful happened: you called me on FaceTime. Even though I was sitting in Denmark, it almost felt as though I was standing right beside you. Watching you say yes to each other through a screen meant everything to me – thank you for making sure I didn't miss your big moment. But I have to admit that it is a thousand times better to see you here today – completely live – where I can finally give you a real hug!",
+        "Lasse, thank you for taking such good care of my youngest daughter. It warms my heart to see how you have built a life together.",
+        "And speaking of all things Norwegian, I would like to send a very special thank you to your parents, Brit-Anna and Øystein. I will never forget our first visit to you on Stord. We were met with an overwhelming hospitality and warmth that immediately told us that Laura had landed in exactly the right family.",
+        "Seeing how you opened your home to us – and how you today always stand ready to help look after Marly when we visit Denmark – means the world to me. As a mother, there is no greater comfort than knowing that your daughter has become part of a family as caring as yours.",
+        "Dear Laura and Lasse. You have proven that love knows no borders. I am incredibly proud of you, Laura – of the woman you have become, and the life you have built in Norway.",
+        "Let us all rise and raise a toast to the happy couple. For Laura and Lasse – long may they live! HURRA!"
+      ]
+    },
+    {
+      "speaker": "Laura's sisters",
+      "image": "",
+      "images": [],
+      "texts": [
+        "Dear Laura and Lasse.",
+        "We have been very much looking forward to celebrating you this weekend, and we know how much it has meant to you to gather your families together for this celebration of love.",
+        "For those of you who don't know us – we are Laura's sisters. And as big sisters, we have had one very important task throughout life: to analyse every man Laura has ever shown interest in.",
+        "And Laura… you have been very good at keeping us busy.",
+        "So when we had to prepare something for today, we started thinking: What does Laura actually need in a man? We'd like to explore that a little by presenting some examples of stereotypical men who might catch Laura's interest…",
+        "First we have Jonas. 28 years old. Emotionally invested in cryptocurrency. Jonas can't offer stability… but he can explain blockchain for four hours and call it 'financial freedom'.",
+        "And in many ways, that actually suited Laura quite well. Because Laura dreams big. And when she gets an idea, it needs to be put into action immediately. And those ideas aren't always cheap. So it's probably very good that Lasse keeps track of the finances.",
+        "She has always been the type who thinks: 'It'll be fine.' And annoyingly enough… it usually is. Laura has always been the architect of her own fortune. She has tried different educations, different paths, different ideas… and every time the rest of us thought: 'I wonder if this will work out'… she found a solution anyway. Lasse, you can help Laura think things through… without taking away her dreams.",
+        "Then there's Peter. 32 years old. Owns three kayaks and no dining chairs. Peter loves nature. He probably has opinions about rain gear. And he thinks mountain water tastes better than regular water.",
+        "But that actually suited Laura quite perfectly too. Because Laura loves nature and adventure. And together with Lasse, she has found a life filled with nature, walks and new experiences. They live surrounded by beautiful scenery in Bergen, go on walks with Marley – and Marley has gradually come to live a life with more privileges than the rest of us. Especially when visiting Lasse's family and getting liver pâté. So when Marley comes home again, she goes on a hunger strike for a few days… because the standard has apparently been raised.",
+        "Then we have Claus. 28 years old. Full-time Counter-Strike player. Part-time boyfriend. Claus says things like: 'I'll be there in five minutes.' And then you never see him again.",
+        "But this is actually where it gets a little romantic. Because Laura and Lasse met online in August 2021. And when you think about it… it's actually pretty wild. There were 20-30 servers. Thousands of players. And yet they found exactly each other.",
+        "Laura was new to the game. Lasse had been playing for a long time and helped new players get started by giving them in-game money – including Laura. And Laura naturally thought: 'I need to be friends with him. He seems rich.'",
+        "So she started messaging him a lot. Meanwhile, Lasse was pretending his microphone wasn't working. It was. He was just shy. But Laura didn't give up. After two weeks she finally got him to talk… and they haven't stopped since.",
+        "Then there's Mads. 28 years old. Offers plenty of love… and a permanent second place after mum. Mads says things like: 'I'd love to go on holiday… but I just need to check what my mum has planned first.'",
+        "And this actually touches on something important. Because Laura is a huge family person. We are four sisters, and we have always been very close. So when Laura moved to Norway… she surprised us once again. We were excited to meet the man who had made our little sister pack up her entire life and move to another country. And we were also a little sceptical…",
+        "Because Laura has always been impulsive. So we naturally thought: 'Is this another spontaneous idea… or something different?' And then we met Lasse. And pretty quickly we could feel: This was different. There was a calmness around Laura that we hadn't seen before.",
+        "And Lasse… you didn't just welcome Laura. Your family did too. That has meant more than you probably realise.",
+        "Then there's Emil. 30 years old. Offers calm, stability and zero risk of spontaneous activities. Emil says things like: 'We don't need to try anything new, we already know what we like.' But Lasse actually has some of that too. Just without being boring.",
+        "He is calm. Caring. And incredibly patient. He can handle Laura… even when she has 47 new ideas before lunch. And at the same time he comes up with things like putting the cocoa tin in the fridge… just because she said it should go 'in the cupboard'.",
+        "And on top of that, he has learned Danish. Or… a kind of Danish. Now they both go around calling each other 'Tompe'. Because Laura explained to Lasse that 'tumpe' isn't a nice word… so he just changed the 'u' to an 'o'. Problem solved.",
+        "But maybe that is actually the most beautiful thing about the two of you. That you come from two different countries. Two different families. Two different ways of doing things. And yet it all just feels natural.",
+        "Laura… you have always dreamed big. Always thrown yourself into life. Always trusted that the net would catch you. And somehow… it did. Because it led you to Lasse.",
+        "And Lasse… you haven't changed Laura. You've just given her enough calm to find herself. And that is probably one of the finest things you can give another person.",
+        "So maybe Laura needed: a little adventure, a little stability, a little humour, a little security, a little gamer energy and a lot of love. And then Lasse came along. He had the charm, the calm, the humour and the heart. All the types in one… just without all the difficult parts. And most importantly: He had her. And she had him.",
+        "We would like to ask everyone to rise and raise a toast for Laura and Lasse. Laura and Lasse – long may they live! Hurra, hurra, hurra!"
+      ]
+    }
+  ],
+  "memorial": {
+    "hero": {
+      "subtitle": "30 May 2026",
+      "text": "A huge thank you to everyone who was part of making our wedding so unforgettable. Having you there meant the world to us.",
+      "imageAlt": "Laura and Lasse"
+    },
+    "ceremony": {
+      "title": "Ceremony Speech"
+    },
+    "vows": {
+      "title": "Our Vows"
+    },
+    "speeches": {
+      "title": "Speeches",
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "photos": {
+      "title": "Photos",
+      "comingSoon": "Photos from the weekend coming soon…",
+      "categoriesLabel": "Choose a photo category",
+      "categories": {
+        "photographerOne": "Photographer 1",
+        "photographerTwo": "Photographer 2",
+        "guests": "Guests"
+      },
+      "loading": "Loading photos…",
+      "error": "The photos could not be loaded right now. Please try again later.",
+      "empty": "There are no photos in this category yet.",
+      "loadMore": "Show more photos"
+    }
   }
 }

@@ -1,8 +1,235 @@
-﻿{
+{
   "loading": {
     "pleaseWait": "Vennligst vent...",
     "title": "Bryllup Laster",
     "maintenance": "Denne siden er for øyeblikket under vedlikehold.",
     "soon": "Vi jobber med å gjøre denne siden til en minneside for bryllupet. Bilder og minner vil snart bli delt her — følg med!"
+  },
+  "ceremony": {
+    "sections": [
+      {
+        "title": "Velkomst",
+        "texts": [
+          "Velkommen alle sammen — og tusen takk for at dere er her i dag for å feire Laura og Lasse.",
+          "Det betyr utrolig mye for dem å ha familie og venner samlet rundt seg på denne dagen.",
+          "Før vi begynner, har brudeparet ett enkelt ønske: At vi alle legger telefonene bort — ikke bare under seremonien, men gjerne hele dagen — slik at vi sammen kan koble litt av, være til stede i øyeblikket og nyte dagen sammen med Laura og Lasse.",
+          "Det er heldigvis fotograf til stede, så dagen blir foreviget.",
+          "Etter seremonien vil vi be alle gjestene om å gå opp i lodgen ved Peisestuen. Hilde og Lise skal nok vise vei. Vi vil imidlertid be foreldre og søsken om å bli etter seremonien for bilder sammen med brudeparet.",
+          "Oppe ved Peisestuen vil det være litt å spise og drikke, tid til å mingle — og jeg kan bare anbefale at dere også tar dere tid til å nyte de vakre omgivelsene her på stedet.",
+          "Og nå skal vi høre litt om historien om Laura og Lasse — en historie som på ganske usannsynlig vis begynte med et online dataspill."
+        ]
+      },
+      {
+        "title": "Talen",
+        "texts": [
+          "Kjære Laura og Lasse.",
+          "Hvis noen hadde sagt for noen år siden at et online dataspill ville føre til kjærlighet, flytting til Norge, rådhusbryllup i Bergen og en hel familie som sier 'tompe'… så tror jeg kanskje vi alle hadde vært litt skeptiske.",
+          "Men likevel sitter vi her i dag.",
+          "For hva var egentlig sjansen? 20-30 servere. Tusenvis av spillere. Det riktige spillet. Den riktige serveren. Det riktige tidspunktet.",
+          "Og så møter Laura selvfølgelig Lasse. Mannen med alle pengene i spillet.",
+          "Laura tenkte angivelig: 'Ham må jeg bli venner med.' Lasse trodde på sin side at han kunne slippe unna å snakke ved bare å si at mikrofonen ikke virket.",
+          "Det kunne han ikke.",
+          "For Laura ga ikke opp så lett.",
+          "Og heldigvis for det.",
+          "For etter bare et par uker begynte noe helt spesielt mellom dere. Dere snakket konstant. Selv om natten sov dere med mikrofonen på, bare for å være nær hverandre. Og da Laura fikk Lasse på Snapchat for å forsikre seg om at han faktisk var en ekte person, gikk det ikke lenge før hun reiste til Bergen for å møte ham.",
+          "Og der ble det virkelig.",
+          "Det føltes riktig med det samme. Naturlig. Trygt.",
+          "Så riktig faktisk at Laura etter få dager sa 'jeg elsker deg' mens dere stod på Fløyen ved Norges høyeste tre. Og siden har dere sagt:",
+          "'Jeg elsker deg høyere enn Norges høyeste tre.'",
+          "Sommeren etter tilbrakte dere mange uker sammen, da Laura var student og hadde lang sommerferie. Etterpå ble det rett og slett for vanskelig å klare seg uten hverandre. Laura tok et stort steg, sluttet på studiet sitt og flyttet til Norge. Det var ikke alltid lett. Nye omgivelser, nye planer og nye drømmer.",
+          "Men noe veldig fint skjedde underveis.",
+          "Laura fant sin vei. Og Lasse stod ved siden av hele veien.",
+          "For det er det dere er: et lag.",
+          "Dere er flinke til å kommunisere. Flinke til å lytte. Flinke til å møte hverandre der den andre er. Dere komplimenterer hverandre på den måten de beste parene gjør.",
+          "Laura drømmer stort — og Lasse hjelper med å holde bena litt på jorda uten noen gang å ta drømmene fra henne.",
+          "Og Laura sørger på sin side for at Lasse blir dyttet litt fremover i livet når han trenger det. Selv om det kanskje har gjort det litt vanskeligere for ham å spare penger, etter at dansken kom inn i bildet.",
+          "Dere har skapt deres helt eget lille univers sammen. Med 'blob'. Med 'tompe'. Med gaming, lydbøker, turer og interne vitser om kakaobokser i feil skap.",
+          "Og det er kanskje akkurat det kjærlighet er.",
+          "Ikke store perfekte øyeblikk hele tiden — men små ting som blir til et felles språk og et felles hjem.",
+          "I dag skal dere utveksle ringer. Et symbol på at dere velger hverandre. Også når dere er adskilt. Også når livet forandrer seg.",
+          "Og kanskje er det akkurat det som gjør kjærligheten deres så sterk: At dere fra begynnelsen har valgt hverandre aktivt. Til tross for avstand, tvil og store beslutninger.",
+          "Laura og Lasse — takk for at vi får være vitner til kjærligheten og historien deres.",
+          "Gratulerer med hverandre. Og jeg håper dere alltid vil elske hverandre høyere enn Norges høyeste tre."
+        ]
+      },
+      {
+        "title": "Overgang til løfter",
+        "texts": [
+          "Laura og Lasse —",
+          "Dere har allerede vist gjennom handlingene deres at dere velger hverandre. I dag får dere også muligheten til å sette ord på det.",
+          "Så nå vil jeg invitere dere til å dele løftene deres med hverandre."
+        ]
+      },
+      {
+        "title": "Ringbytte",
+        "texts": [
+          "Takk.",
+          "Ringene er et symbol på det dere lover hverandre i dag. Et symbol på kjærlighet, fellesskap og det livet dere velger å bygge sammen.",
+          "Laura og Lasse — vil dere ta hverandres hender.",
+          "Lasse, vil du sette ringen på Lauras finger og gjenta etter meg:",
+          "'Jeg velger deg — i dag, i morgen og alle dagene som kommer.'",
+          "'Du er min beste venn, min trygghet og mitt hjem.'",
+          "Laura, vil du sette ringen på Lasses finger og gjenta etter meg:",
+          "'Jeg velger deg — i dag, i morgen og alle dagene som kommer.'",
+          "'Du er min beste venn, min trygghet og mitt hjem.'"
+        ]
+      },
+      {
+        "title": "Avslutning",
+        "texts": [
+          "Laura og Lasse —",
+          "Dere har nå delt løftene deres og gitt hverandre ringer som symbol på kjærligheten og livet dere skal leve sammen.",
+          "Og derfor er det nå min store glede å presentere dere som ektefeller.",
+          "Dere kan kysse hverandre.",
+          "Hjertelig til lykke til Laura og Lasse!",
+          "Og til dere alle: Tusen takk for at dere ville være med på å feire dem i dag.",
+          "Vi vil nå be alle gjestene om å gå opp i lodgen ved Peisestuen, hvor det vil være litt å spise og drikke, og mulighet for å hygge og nyte omgivelsene. Hilde og Lise skal nok vise vei.",
+          "Foreldre og søsken må gjerne bli her litt til for bilder sammen med brudeparet."
+        ]
+      }
+    ]
+  },
+  "vows": {
+    "lasse": {
+      "name": "Lasse",
+      "texts": [
+        "Det er fortsatt litt rart å tenke på kor tilfeldig alt starta. At ein fortapt Chocobo skulle finne deg. Men av alle tilfeldigheter i livet mitt, så er du heilt klart den beste.",
+        "Det tok ikkje lang tid før me snakket samen kvar dag. Det var nåke med deg som føltest trygt og godt, og det var enkelt å snakke med deg om alt. Og etter kvart blei du ikkje berre ein eg ville snakke med kvar dag — du blei heimen min.",
+        "Eg elsker livet me har samen. Elsker kossen me kan tilbringe kvar dag samen uten å bli lei kvarandre. Kossen du viser at du elsker meg — enten det er ved å lage nåke godt, ved å nusse meg når me ser på film, eller måten du forstår meg på som ingen andre kan.",
+        "Eg kunne aldri sett for meg kor mykje ein person kunne bety for meg før eg møtte deg. Når eg er med deg kan eg alltid vere meg sjølv. Du gjer sjølv dei vanlege dagane til dagar å sjå fram til. Og det er den kjærligheten eg vil bruke resten av livet på å ta vare på.",
+        "Eg lover å vere der for deg kvar dag. Enten det er å le saman på gode dagar, eller gråte saman på dårlege dagar. Eg vil vere den personen du kan lene deg på, stole på, og finne trygghet hos. For eg veit at så lenge me er saman, så kan me klare alt.",
+        "For uansett kossen livet blir framover, så er det ingen eg heller vil gå gjennom det med enn deg. Du er min beste venn, min største Tompe, og personen eg vil dele resten av livet mitt med."
+      ]
+    },
+    "laura": {
+      "name": "Laura",
+      "texts": [
+        "Kjære Lasse.",
+        "Da jeg først møtte deg, var det ikke lett å få deg til å åpne deg. Men da du endelig gjorde det, ble verden min så mye bedre.",
+        "Helt fra starten, da jeg stod i min største sorg, ble du et lyspunkt for meg. Du fikk meg til å smile når det var vanskelig, og minnet meg på at det fortsatt fantes glede midt i alt det tunge.",
+        "Siden da har livet forandret seg mye. Jeg flyttet hit opp, byttet utdanning, og nye utfordringer kom med. Men uansett hva har du alltid sagt: 'Vi klarer det sammen.' Og det har vi gjort — igjen og igjen.",
+        "Jeg elsker at du alltid er så rolig og jordnær. Du er flink til å få meg ned når jeg flyr for høyt. Og omvendt tar jeg deg med opp å fly en gang i blant.",
+        "På grunn av deg har jeg lært å leve mer i nuet, nyte øyeblikkene mer og ikke fokusere alt for mye på fremtiden. For den skal nok komme.",
+        "Jeg elsker at du alltid kan få meg til å smile og le, selv på de dårlige dagene.",
+        "Jeg håper at vi aldri slutter å tøyse med hverandre. At vi aldri slutter å være noen tomper.",
+        "Så Lasse, jeg lover deg:",
+        "At jeg alltid skal drømme nok for oss begge.",
+        "At jeg alltid nok skal utfordre deg — både i hverdagen og når det gjelder nye opplevelser.",
+        "At jeg alltid vil støtte deg og elske deg i tykt og tynt.",
+        "For jeg vet at sammen med deg er alt mulig."
+      ]
+    }
+  },
+  "speeches": [
+    {
+      "speaker": "Bård",
+      "image": "speeches/bård.jpg",
+      "images": [],
+      "texts": [
+        "Kjære Lasse og Laura, familie og venner.",
+        "For dåke som ikkje kjenne meg, er eg Bård, Lasse sin bror.",
+        "Sjølv om me kanskje ikkje var de roligst eller mest harmoniske, så hadde me alltid Joakim å skylla på når me sloss. Det eg sitter igjen med er at vi alltid har hatt eit sterkt bånd, og vore der for kvarandre.",
+        "Lasse har alltid gått sin eigen vei, vore sjølvstendig, målbevisst – og nettopp derfor er det så fint å sjå kem han har valgt å dela livet sitt med.",
+        "Laura, du er ein utruleg bra match for Lasse. Du bringer varme, tryggheit og ein masse glede i livet hans, og det er tydeleg at dokker har det veldig spesielt saman.",
+        "Eg er kjempegla på dokkas vegne. Eg ønsker dokker eit liv fylt med kjærleik, latter og gode minne.",
+        "Gratulera så mykje med dagen, Lasse og Laura. Skål!"
+      ]
+    },
+    {
+      "speaker": "Ina",
+      "image": "speeches/ina.jpg",
+      "images": [],
+      "texts": [
+        "Min beste danske venninne, Laura.",
+        "Vi har ikke kjent hverandre så lenge. Vi ble kjent gjennom online studie, men det var ikke før på slutten av det siste året vårt at vi ble ordentlig kjent. Det er ca. 1 år siden. Vi fant fort tonen og hadde mye til felles, på godt og vondt. Du har alltid vært lett å prate med – bortsett fra når det er et dansk ord jeg ikke forstår. Vi ble raskt veldig gode venner, og i dag er du min beste danske venninne.",
+        "Ikke nok med det, jeg er så heldig som også kan kalle deg min favoritt kollega. Naturligvis, etter studiet, var vi begge på jakt etter jobb i Bergen. Det var en langsom prosess, men plutselig fikk vi begge invitasjon til å komme på intervju hos samme firma.",
+        "Vi var overlykkelige for å få intervju, men det var også litt nervepirrende fordi vi måtte konkurrere mot hverandre. Men vi sa til hverandre at så lenge en av oss får jobben, så blir vi glad.",
+        "Drømmer kan gå i oppfyllelse, og det gjorde det – vi var rett og slett så flinke på intervjuene at de måtte ansette oss begge.",
+        "På den lille tiden jeg har kjent deg, har jeg sett og erfart at du er utrolig snill mot alle rundt deg. Du nøler aldri med å hjelpe andre. Du er like vakker på innsiden som du er på utsiden. Takk for at du er den du er!",
+        "Lasse er heldig som har deg, og dere er heldige som har hverandre. Fortsett å være støttende, omtenksomme og gode med hverandre. Skål for brudeparet og for kjærligheten!"
+      ]
+    },
+    {
+      "speaker": "Laila",
+      "image": "speeches/mor.jpg",
+      "images": [],
+      "texts": [
+        "Kjære Laura og Lasse.",
+        "Det er en helt spesiell dag i dag. Selv om dere allerede sa ja til hverandre den 19. september 2024, er det fantastisk å endelig kunne feire det med hele familien og alle vennene her i dag i mai 2026.",
+        "Laura, du har alltid gått dine egne veier. Fra barndommen din i Sønderborg til tiden i Ikast, der datamaskinen og skjermen tok stor plass. Dengang tenkte jeg kanskje bare at du gamet, men i virkeligheten holdt du på å bygge bro over Skagerrak! Det krever mot å pakke livet sitt og reise til Bergen for å møte en man har møtt i en virtuell verden. Men da du først hadde besøkt Lasse, var det ingen tvil: Du skulle flytte til Norge.",
+        "I dag har dere begge landet på rett hylle innen IT. Lasse, du har jo vært i faget lenger og har hverdagen din i banken, mens du, Laura, nå også har kommet fint i mål med utdanningen din og funnet din plass i et IT-firma. Man kan si at dere snakker samme språk, både når det gjelder kjærlighet og kildekode.",
+        "Da dere ble viet på rådhuset i september 2024, kunne jeg dessverre ikke selv være til stede i Bergen. Det var tungt å ikke kunne stå ved siden av deg, Laura. Men midt i alt det digitale som har brakt dere to sammen, skjedde det noe vakkert: Dere ringte meg på FaceTime. Selv om jeg satt i Danmark, føltes det nesten som om jeg stod rett ved siden av dere. Å se dere si ja til hverandre gjennom en skjerm betydde alt for meg – takk fordi dere sørget for at jeg ikke gikk glipp av øyeblikket deres. Men jeg må innrømme at det er tusen ganger bedre å se dere her i dag – helt live – der jeg endelig kan gi dere en skikkelig klem!",
+        "Lasse, takk fordi du har tatt så godt imot min yngste datter. Det varmer hjertet mitt å se hvordan dere har skapt et liv sammen.",
+        "Og når vi snakker om det norske, vil jeg gjerne sende en helt spesiell takk til foreldrene dine, Brit-Anna og Øystein. Jeg glemmer aldri vårt første besøk hos dere på Stord. Vi ble møtt med en overveldende gjestfrihet og en hjertevarme som med det samme fortalte oss at Laura hadde landet i akkurat den rette familien.",
+        "Å se hvordan dere åpnet hjemmet deres for oss – og hvordan dere i dag alltid stiller opp for å passe Marly når turen går til Danmark – det betyr uendelig mye for meg. Som mor er det den største trygghet å vite at ens datter har blitt en del av en familie som er så omsorgsfull som deres.",
+        "Kjære Laura og Lasse. Dere har bevist at kjærlighet ikke kjenner noen grenser. Jeg er utrolig stolt av deg, Laura – av den kvinnen du har blitt, og det livet du har bygd opp i Norge.",
+        "La oss alle reise oss og skåle for brudeparet. For Laura og Lasse – lenge leve! HURRA!"
+      ]
+    },
+    {
+      "speaker": "Lauras søstre",
+      "image": "",
+      "images": [],
+      "texts": [
+        "Kjære Laura og Lasse.",
+        "Vi har gledet oss veldig til å feire dere denne helgen, og vi vet at det har betydd utrolig mye for dere å samle familiene til denne kjærlighetsfesten.",
+        "Til dere som ikke kjenner oss – vi er Lauras søstre. Og som storesøstre har vi hatt én veldig viktig oppgave gjennom livet: å analysere alle menn Laura noen gang har vist interesse for.",
+        "Og Laura… du har vært flink til å holde oss sysselsatt.",
+        "Så da vi skulle lage noe til i dag, begynte vi å tenke: Hva er det egentlig Laura trenger i en mann? Det vil vi gjerne komme litt nærmere inn på ved å presentere noen eksempler på stereotype menn som kunne falle i Lauras smak…",
+        "Først har vi Jonas. 28 år. Investerer følelsesmessig i kryptovaluta. Jonas kan ikke tilby stabilitet… men han kan forklare blockchain i fire timer og kalle det 'økonomisk frihet'.",
+        "Og på mange måter passet det faktisk ganske godt til Laura. For Laura drømmer stort. Og når hun får en idé, skal den helst settes ut i livet med det samme. Og de idéene er ikke alltid helt billige. Så derfor er det nok veldig bra at Lasse har styr på økonomien.",
+        "Hun har alltid vært typen som tenker: 'Det går nok bra.' Og irriterende nok… så gjør det det også ganske ofte. Laura har alltid vært sin egen lykkes smed. Hun har prøvd forskjellige utdanninger, forskjellige veier, forskjellige idéer… og hver gang vi andre tenkte: 'Mon om det kommer til å gå'… så fant hun likevel en løsning. Lasse, du kan hjelpe Laura med å tenke ting igjennom… uten å ta drømmene fra henne.",
+        "Så er det Peter. 32 år. Eier tre kajakker og ingen spisestoler. Peter elsker natur. Han har sannsynligvis en mening om regnklær. Og han synes fjellavann smaker bedre enn vanlig vann.",
+        "Men det passet jo også litt perfekt til Laura. For Laura elsker natur og eventyr. Og sammen med Lasse har hun funnet et liv fylt med natur, turer og nye opplevelser. De bor omgitt av vakre omgivelser i Bergen, går turer med Marley – og Marley lever etter hvert et liv med flere privilegier enn oss andre. Spesielt når den besøker Lasses familie og får leverpostei. Så når Marley kommer hjem igjen, holder den en par dagers sultestreik… fordi standarden åpenbart er blitt hevet.",
+        "Så har vi Claus. 28 år. Fulltids Counter-Strike-spiller. Deltidskjæreste. Claus sier ting som: 'Jeg kommer om fem minutter.' Og så ser man ham aldri igjen.",
+        "Men her blir det faktisk litt romantisk. For Laura og Lasse møtte jo hverandre online i august 2021. Og når man tenker over det… så er det faktisk ganske vilt. Det var 20-30 servere. Tusenvis av spillere. Og likevel fant de akkurat hverandre.",
+        "Laura var ny i spillet. Lasse hadde spilt lenge og hjalp nye spillere i gang ved å gi dem penger i spillet – deriblant Laura. Og Laura tenkte selvfølgelig: 'Ham skal jeg være venner med. Han virker rik.'",
+        "Så hun begynte å skrive mye til ham. Og imens satt Lasse og lot som om mikrofonen hans ikke virket. Det gjorde den. Han var bare sjenert. Men Laura ga ikke opp. Etter to uker fikk hun endelig ham til å snakke… og siden da har de aldri sluttet.",
+        "Så er det Mads. 28 år. Tilbyr masse kjærlighet… og en permanent andreplass etter mor. Mads sier ting som: 'Jeg vil gjerne bli med på ferie… men jeg må bare høre hva mamma har planlagt først.'",
+        "Og her treffer vi faktisk noe viktig. For Laura er et stort familiemenneske. Vi er fire søstre, og vi har alltid vært veldig nære. Så da Laura flyttet til Norge… overrasket hun oss nok en gang. Vi var spente på å møte mannen som hadde fått vår lillesøster til å pakke hele livet sitt og flytte til et annet land. Og vi var også litt skeptiske…",
+        "For Laura har alltid vært impulsiv. Så vi tenkte selvfølgelig: 'Er dette nok en spontan idé… eller noe annet?' Og så møtte vi Lasse. Og ganske raskt kunne vi kjenne: Dette var annerledes. Det var ro rundt Laura på en måte vi ikke hadde sett før.",
+        "Og Lasse… du tok ikke bare imot Laura. Familien din gjorde det også. Det har betydd mer enn du sikkert tror.",
+        "Så er det Emil. 30 år. Tilbyr ro, stabilitet og null risiko for spontane aktiviteter. Emil sier ting som: 'Vi trenger ikke prøve noe nytt, vi vet jo allerede hva vi liker.' Men Lasse har faktisk noe av det samme. Bare uten å være kjedelig.",
+        "Han er rolig. Omsorgsfull. Og helt utrolig tålmodig. Han kan romme Laura… selv når hun har 47 nye idéer før lunsj. Og samtidig kan han finne på å erte henne ved å sette kakaoboksen i kjøleskapet… bare fordi hun sa den skulle settes 'i skapet'.",
+        "Og så har han til og med lært dansk. Eller… en slags dansk. Nå går de jo begge rundt og kaller hverandre 'Tompe'. Fordi Laura forklarte Lasse at 'tumpe' ikke er et pent ord… så han bare endret u-en til o. Problem solved.",
+        "Men kanskje er det faktisk det vakreste med dere to. At dere kommer fra to forskjellige land. To forskjellige familier. To forskjellige måter å gjøre ting på. Og likevel føles det hele bare naturlig.",
+        "Laura… du har alltid drømt stort. Alltid kastet deg ut i livet. Alltid stolet på at nettet nok ville fange deg. Og på en eller annen måte… så gjorde det det. For det førte deg til Lasse.",
+        "Og Lasse… du har ikke forandret Laura. Du har bare gitt henne nok ro til at hun kunne finne seg selv. Og det er nok noe av det fineste man kan gi et annet menneske.",
+        "Så kanskje trengte Laura: litt eventyr, litt stabilitet, litt humor, litt trygghet, litt gamer-energi og masse kjærlighet. Og så kom Lasse. Han hadde charmen, roen, humoren og hjertet. Alle typene i én… bare uten alt det vanskelige. Og viktigst av alt: Han hadde henne. Og hun hadde ham.",
+        "Vi vil gjerne be alle om å reise seg og skåle for Laura og Lasse. Laura og Lasse – lenge leve! Hurra, hurra, hurra!"
+      ]
+    }
+  ],
+  "memorial": {
+    "hero": {
+      "subtitle": "30. mai 2026",
+      "text": "Tusen takk til alle som var med på å gjøre bryllupet vårt så uforglemmelig. Det betydde verden for oss å ha dere der.",
+      "imageAlt": "Laura og Lasse"
+    },
+    "ceremony": {
+      "title": "Seremonitale"
+    },
+    "vows": {
+      "title": "Våre løfter"
+    },
+    "speeches": {
+      "title": "Taler",
+      "prev": "Forrige",
+      "next": "Neste"
+    },
+    "photos": {
+      "title": "Bilder",
+      "comingSoon": "Bilder fra helgen kommer snart…",
+      "categoriesLabel": "Velg bildekategori",
+      "categories": {
+        "photographerOne": "Fotograf 1",
+        "photographerTwo": "Fotograf 2",
+        "guests": "Gjestene"
+      },
+      "loading": "Henter bilder…",
+      "error": "Bildene kunne ikke hentes akkurat nå. Prøv igjen senere.",
+      "empty": "Det er ingen bilder i denne kategorien ennå.",
+      "loadMore": "Vis flere bilder"
+    }
   }
 }
