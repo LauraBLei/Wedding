@@ -21,7 +21,7 @@ export function CeremonySection({ image }: CeremonySectionProps) {
 
   return (
     <section
-      className="px-6 py-24 max-w-xl mx-auto"
+      className="px-6 py-24 max-w-2xl mx-auto"
       style={{ backgroundColor: "#022d1d" }}
     >
       <h2
@@ -33,8 +33,7 @@ export function CeremonySection({ image }: CeremonySectionProps) {
 
       {image ? (
         <div
-          className="w-full overflow-hidden rounded-lg shadow-2xl mb-12"
-          style={{ height: "360px" }}
+          className="w-full aspect-[4/3] overflow-hidden rounded-lg shadow-2xl mb-12"
         >
           <img
             src={image}

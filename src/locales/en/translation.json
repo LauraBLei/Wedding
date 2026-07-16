@@ -168,7 +168,7 @@
     },
     {
       "speaker": "Laura's sisters",
-      "image": "",
+      "image": "speeches/søstre.jpg",
       "images": [],
       "texts": [
         "Dear Laura and Lasse.",
@@ -198,6 +198,41 @@
         "So maybe Laura needed: a little adventure, a little stability, a little humour, a little security, a little gamer energy and a lot of love. And then Lasse came along. He had the charm, the calm, the humour and the heart. All the types in one… just without all the difficult parts. And most importantly: He had her. And she had him.",
         "We would like to ask everyone to rise and raise a toast for Laura and Lasse. Laura and Lasse – long may they live! Hurra, hurra, hurra!"
       ]
+    },
+    {
+      "speaker": "Brit Anna and Øystein",
+      "image": "speeches/mamlo&paplo.jpg",
+      "images": [],
+      "texts": [
+        "Dear Lasse, dear Laura.",
+        "Thank you so much for inviting us to the wedding in this wonderful venue. Welcome to all the guests.",
+        "We are Lasse's parents, Brit Anna and Øystein. He is our son. We were fortunate enough to have three sons, and Lasse is the middle one …",
+        "Things were probably not always easy and peaceful in our home. But when I look at the boys now, I think things have turned out well. And Mum and Dad are proud.",
+        "Lasse did well at school, and in his spare time it was all about football and computers. Later, he tried sailing, wakeboarding, snowboarding and motocross. He was small, light and agile, so he could manage almost anything.",
+        "But later in his youth, chess and computers became his biggest hobbies.",
+        "Lasse had lived alone in Bergen for a long time, and especially during the coronavirus pandemic, it was a little difficult for Mum to know that Lasse was alone so much. But one weekend when Lasse was home, I noticed a particular interest in talking on the phone. And there was an especially lovely voice …",
+        "And when he was going back to his flat, he asked whether we had a hiking backpack. A hiking backpack? He never went hiking …",
+        "Then, a week or two later, I called Lasse and wanted him to come home because I did not want him to be so alone in the city.",
+        "But he said, ‘No, he isn't coming home.’",
+        "And then I heard in the background: ‘He isn't alone, because Laura has come to visit from Denmark.’",
+        "Laura came to visit many times, and before long she brought Marley with her.",
+        "And there were plenty of opportunities to use the hiking backpack Lasse had wanted. There were trips to Fløyen in Bergen and trips on Stord and Bømlo.",
+        "Fortunately, we were lucky enough to join them on several of those trips.",
+        "It gradually became clear that Laura and Marley wanted to move to Bergen to live with Lasse. The little flat soon became too small, and they had to start looking for a home. Fortunately, everything worked out in the end, and they found a lovely flat in Fyllingsdalen.",
+        "I believe this little, lovely family will create many wonderful memories there.",
+        "Lasse has always been a little particular about food. He ate white bread with mutton sausage and breakfast cereal. Dinner was generally minced meat and spaghetti. There was very little variation.",
+        "But that has changed since Laura came into his life.",
+        "We also got to join them on the day they went to the judge and got married – for the first time. It was a beautiful day. Bergen showed itself from its very best side, with sunshine.",
+        "After the ceremony, we walked across Bryggen and enjoyed a lovely dinner. Dad took the railway up to Fløyen. There was a beautiful sunset and a wonderful end to a lovely day.",
+        "Thank you for letting us be part of this day.",
+        "Thank you so much, Laura, for everything you have contributed and given to this family. It is wonderful to see how happy you, Lasse and Marley's sons are together.",
+        "We wish you the very best for the rest of your lives.",
+        "And I would also like to congratulate Laura on becoming a Norwegian citizen.",
+        "Finally, I would like to share a short quotation:",
+        "‘The future is filled with doors. You do not always open the right one, but then you simply open another.’",
+        "Thank you from both of us.",
+        "Love, Mum and Dad."
+      ]
     }
   ],
   "memorial": {
@@ -219,17 +254,8 @@
     },
     "photos": {
       "title": "Photos",
-      "comingSoon": "Photos from the weekend coming soon…",
-      "categoriesLabel": "Choose a photo category",
-      "categories": {
-        "photographerOne": "Photographer 1",
-        "photographerTwo": "Photographer 2",
-        "guests": "Guests"
-      },
-      "loading": "Loading photos…",
-      "error": "The photos could not be loaded right now. Please try again later.",
-      "empty": "There are no photos in this category yet.",
-      "loadMore": "Show more photos"
+      "domantas": "Domantas – photographer 1",
+      "hansi": "Hansi – photographer 2"
     }
   }
 }

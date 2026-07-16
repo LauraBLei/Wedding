@@ -22,7 +22,7 @@ export function MemorialPage() {
         <VowsSection image="/laura.jpg" />
       </div>
       <div id="ceremony">
-        <CeremonySection image="/ceremony.jpg" />
+        <CeremonySection image="/vielse.jpg" />
       </div>
       <div id="speeches">
         <SpeechesSection />

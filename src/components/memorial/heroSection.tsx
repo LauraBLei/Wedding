@@ -34,10 +34,7 @@ export function HeroSection({ image }: HeroSectionProps) {
       </p>
 
       {image ? (
-        <div
-          className="w-full max-w-sm overflow-hidden rounded-lg shadow-2xl"
-          style={{ height: "420px" }}
-        >
+        <div className="w-full max-w-2xl aspect-[3/4] overflow-hidden rounded-lg shadow-2xl">
           <img
             src={image}
             alt={t("memorial.hero.imageAlt")}
@@ -45,7 +42,7 @@ export function HeroSection({ image }: HeroSectionProps) {
           />
         </div>
       ) : (
-        <div className="w-full max-w-sm aspect-[3/4] rounded-lg bg-white/5 border border-white/10" />
+        <div className="w-full max-w-2xl aspect-[4/3] rounded-lg bg-white/5 border border-white/10" />
       )}
     </section>
   );

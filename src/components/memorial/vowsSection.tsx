@@ -32,8 +32,7 @@ export function VowsSection({ image }: VowsSectionProps) {
 
       {image ? (
         <div
-          className="w-full overflow-hidden rounded-lg shadow-2xl mb-14"
-          style={{ height: "500px" }}
+          className="w-full max-w-2xl mx-auto aspect-[4/3] overflow-hidden rounded-lg shadow-2xl mb-14"
         >
           <img
             src={image}
@@ -42,7 +41,7 @@ export function VowsSection({ image }: VowsSectionProps) {
           />
         </div>
       ) : (
-        <div className="w-full aspect-[4/3] rounded-lg bg-white/5 border border-white/10 mb-14" />
+        <div className="w-full max-w-2xl mx-auto aspect-[4/3] rounded-lg bg-white/5 border border-white/10 mb-14" />
       )}
 
       <div className="max-w-2xl mx-auto">

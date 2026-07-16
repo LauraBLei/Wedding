@@ -168,7 +168,7 @@
     },
     {
       "speaker": "Lauras søstre",
-      "image": "",
+      "image": "speeches/søstre.jpg",
       "images": [],
       "texts": [
         "Kjære Laura og Lasse.",
@@ -198,6 +198,41 @@
         "Så kanskje trengte Laura: litt eventyr, litt stabilitet, litt humor, litt trygghet, litt gamer-energi og masse kjærlighet. Og så kom Lasse. Han hadde charmen, roen, humoren og hjertet. Alle typene i én… bare uten alt det vanskelige. Og viktigst av alt: Han hadde henne. Og hun hadde ham.",
         "Vi vil gjerne be alle om å reise seg og skåle for Laura og Lasse. Laura og Lasse – lenge leve! Hurra, hurra, hurra!"
       ]
+    },
+    {
+      "speaker": "Brit Anna og Øystein",
+      "image": "speeches/mamlo&paplo.jpg",
+      "images": [],
+      "texts": [
+        "Kjære Lasse, kjære Laura.",
+        "Tusen takk for innbydelsen til bryllup i dette flotte lokalet. Velkommen til alle gjestene.",
+        "Vi er foreldrene til Lasse, Brit Anna og Øystein. Han er vår sønn. Vi var så heldige å få tre sønner, og Lasse er i midten …",
+        "Det var nok ikke alltid like lett og rolig hjemme hos oss. Men når jeg ser på guttene nå, synes jeg det ser bra ut. Og mamma og pappa er stolte.",
+        "På skolen klarte Lasse seg bra, og på fritiden gikk det i fotball og data. Senere var han innom seiling, wakeboard, snowboard og motocross. Han var liten og lett og spenstig i kroppen, så han klarte det meste.",
+        "Men senere i ungdommen ble det sjakk og data som ble de største hobbyene.",
+        "Lasse hadde bodd lenge alene i Bergen, og spesielt under covidviruset var det litt tøft for mamma å vite at Lasse var så masse alene. Men en helg Lasse var hjemme, merket jeg en ekstra interesse for å snakke i telefonen. Og det var ei ekstra fin stemme …",
+        "Og når han skulle reise tilbake til hybelen, spurte han om vi hadde en tursekk. Tursekk? Han som aldri var på tur …",
+        "Og så, ei uke eller to etterpå, ringte jeg til Lasse og ville få ham hjem, for jeg ville ikke at han skulle være så alene i byen.",
+        "Men han sa: «Nei, han kommer ikke hjem.»",
+        "Og så hørte jeg i bakgrunnen: «Han er ikke alene, for Laura er kommet på besøk fra Danmark.»",
+        "Laura kommer mange ganger på besøk, og etter hvert har hun og Marley med seg.",
+        "Og det blir mange anledninger til å bruke tursekken som Lasse ville ha. Det blir turer på Fløyen i Bergen, og det blir turer på Stord og Bømlo.",
+        "Heldigvis har vi vært så heldige å få bli med på flere av turene.",
+        "Det blir sånn klart at Laura og Marley vil flytte til Lasse og Bergen. Og da blir den lille hybelen snart for liten, og de må på husjakt. Heldigvis ordnet det seg til slutt, og de fikk seg en fin leilighet i Fyllingsdalen.",
+        "Så her tror jeg en liten, fin familie vil skape mange gode minner.",
+        "Lasse har alltid vært litt sær i matveien. Han åt loff med fårepølse og frokostblanding. Og til middag gikk det stort sett i kjøttdeig og spaghetti. Veldig lite variasjon.",
+        "Men det har forandret seg etter at Laura kom inn i livet.",
+        "Vi fikk også bli med den dagen de var til sorenskriveren og gifta seg – for første gang. Det var en nydelig dag. Bergen viste seg fra si beste side, med sol.",
+        "Etter vielsen gikk vi tur over Bryggen og åt en bedre middag. Far tok banen opp til Fløyen. Der var det en nydelig solnedgang og en flott avslutning på en fin dag.",
+        "Takk for at vi fikk være med på denne dagen.",
+        "Tusen takk, Laura, for hva du har bidratt og gitt til denne familien. Det er veldig kjekt å se hvor fint du og Lasse og sønnene til Marley har det i lag.",
+        "Lykke til videre i livet.",
+        "Og så vil jeg gratulere Laura med norsk statsborgerskap.",
+        "Og så på tampen vil jeg komme med et lite sitat:",
+        "«Framtiden er fylt med dører. Det er ikke alltid man åpner den rette, men da åpner du bare en ny.»",
+        "Takk for oss.",
+        "Klem, mamma og pappa."
+      ]
     }
   ],
   "memorial": {
@@ -219,17 +254,8 @@
     },
     "photos": {
       "title": "Bilder",
-      "comingSoon": "Bilder fra helgen kommer snart…",
-      "categoriesLabel": "Velg bildekategori",
-      "categories": {
-        "photographerOne": "Fotograf 1",
-        "photographerTwo": "Fotograf 2",
-        "guests": "Gjestene"
-      },
-      "loading": "Henter bilder…",
-      "error": "Bildene kunne ikke hentes akkurat nå. Prøv igjen senere.",
-      "empty": "Det er ingen bilder i denne kategorien ennå.",
-      "loadMore": "Vis flere bilder"
+      "domantas": "Domantas – fotograf 1",
+      "hansi": "Hansi – fotograf 2"
     }
   }
 }

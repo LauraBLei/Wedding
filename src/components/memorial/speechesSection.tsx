@@ -25,7 +25,10 @@ export function SpeechesSection() {
   const onTouchEnd = (e: React.TouchEvent) => {
     if (touchStartX.current === null) return;
     const diff = touchStartX.current - e.changedTouches[0].clientX;
-    if (Math.abs(diff) > 50) diff > 0 ? next() : prev();
+    if (Math.abs(diff) > 50) {
+      if (diff > 0) next();
+      else prev();
+    }
     touchStartX.current = null;
   };
 
@@ -56,8 +59,7 @@ export function SpeechesSection() {
           <img
             src={speech.image}
             alt={speech.speaker}
-            className="w-full rounded-lg object-cover mb-8 shadow-lg"
-            style={{ maxHeight: "60vh" }}
+            className="w-full aspect-[4/3] rounded-lg object-cover mb-8 shadow-lg"
           />
         ) : (
           <div className="w-full aspect-[4/3] rounded-lg bg-white/5 border border-white/10 mb-8 flex items-center justify-center">

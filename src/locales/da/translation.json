@@ -168,7 +168,7 @@
     },
     {
       "speaker": "Lauras søstre",
-      "image": "",
+      "image": "speeches/søstre.jpg",
       "images": [],
       "texts": [
         "Kære Laura og Lasse.",
@@ -198,6 +198,41 @@
         "Så måske havde Laura brug for: lidt eventyr, lidt stabilitet, lidt humor, lidt tryghed, lidt gamer-energi og en masse kærlighed. Og så kom Lasse. Han havde charmen, roen, humoren og hjertet. Alle typerne i én… bare uden alt det besværlige. Og vigtigst af alt: Han havde hende. Og hun havde ham.",
         "Vi vil gerne bede alle om at rejse sig og skåle for Laura og Lasse. Laura og Lasse – længe leve! Hurra, hurra, hurra!"
       ]
+    },
+    {
+      "speaker": "Brit Anna og Øystein",
+      "image": "speeches/mamlo&paplo.jpg",
+      "images": [],
+      "texts": [
+        "Kære Lasse, kære Laura.",
+        "Tusind tak for invitationen til bryllup i dette flotte lokale. Velkommen til alle gæsterne.",
+        "Vi er Lasses forældre, Brit Anna og Øystein. Han er vores søn. Vi var så heldige at få tre sønner, og Lasse er den mellemste …",
+        "Det var nok ikke altid lige let og roligt hjemme hos os. Men når jeg ser på drengene nu, synes jeg, det ser godt ud. Og mor og far er stolte.",
+        "I skolen klarede Lasse sig godt, og i fritiden gik det med fodbold og computer. Senere prøvede han kræfter med sejlads, wakeboard, snowboard og motocross. Han var lille, let og smidig, så han kunne klare det meste.",
+        "Men senere i ungdommen blev skak og computer de største hobbyer.",
+        "Lasse havde boet alene i Bergen længe, og især under coronavirussen var det lidt hårdt for mor at vide, at Lasse var så meget alene. Men en weekend, hvor Lasse var hjemme, bemærkede jeg en ekstra interesse for at tale i telefon. Og det var en ekstra dejlig stemme …",
+        "Og da han skulle rejse tilbage til sin lejlighed, spurgte han, om vi havde en rygsæk til vandreture. En rygsæk? Ham, der aldrig var på tur …",
+        "Og så, en uge eller to senere, ringede jeg til Lasse og ville have ham hjem, for jeg ville ikke have, at han skulle være så alene i byen.",
+        "Men han sagde: »Nej, han kommer ikke hjem.«",
+        "Og så hørte jeg i baggrunden: »Han er ikke alene, for Laura er kommet på besøg fra Danmark.«",
+        "Laura kommer på besøg mange gange, og efterhånden har hun Marley med sig.",
+        "Og der bliver mange lejligheder til at bruge den rygsæk, som Lasse ville have. Det bliver til ture på Fløyen i Bergen og ture på Stord og Bømlo.",
+        "Heldigvis har vi været så heldige at få lov til at komme med på flere af turene.",
+        "Det står efterhånden klart, at Laura og Marley vil flytte til Lasse og Bergen. Og så bliver den lille lejlighed hurtigt for lille, og de må på boligjagt. Heldigvis ordnede det sig til sidst, og de fik en fin lejlighed i Fyllingsdalen.",
+        "Så her tror jeg, at en lille, dejlig familie vil skabe mange gode minder.",
+        "Lasse har altid været lidt sær, når det gælder mad. Han spiste franskbrød med fårepølse og morgenmadsprodukter. Og til aftensmad stod den for det meste på hakket kød og spaghetti. Meget lidt variation.",
+        "Men det har ændret sig, efter at Laura kom ind i hans liv.",
+        "Vi fik også lov til at være med den dag, de var hos dommeren og blev gift – for første gang. Det var en vidunderlig dag. Bergen viste sig fra sin bedste side med solskin.",
+        "Efter vielsen gik vi en tur over Bryggen og spiste en bedre middag. Far tog banen op til Fløyen. Der var en vidunderlig solnedgang og en flot afslutning på en dejlig dag.",
+        "Tak, fordi vi måtte være med på denne dag.",
+        "Tusind tak, Laura, for det, du har bidraget med og givet til denne familie. Det er rigtig dejligt at se, hvor godt du, Lasse og Marleys sønner har det sammen.",
+        "Held og lykke videre i livet.",
+        "Og så vil jeg ønske Laura tillykke med det norske statsborgerskab.",
+        "Og her til sidst vil jeg komme med et lille citat:",
+        "»Fremtiden er fyldt med døre. Man åbner ikke altid den rigtige, men så åbner man bare en ny.«",
+        "Tak for os.",
+        "Kram, mor og far."
+      ]
     }
   ],
   "memorial": {
@@ -219,17 +254,8 @@
     },
     "photos": {
       "title": "Billeder",
-      "comingSoon": "Billeder fra weekenden kommer snart…",
-      "categoriesLabel": "Vælg billedkategori",
-      "categories": {
-        "photographerOne": "Fotograf 1",
-        "photographerTwo": "Fotograf 2",
-        "guests": "Gæsterne"
-      },
-      "loading": "Henter billeder…",
-      "error": "Billederne kunne ikke hentes lige nu. Prøv igen senere.",
-      "empty": "Der er ingen billeder i denne kategori endnu.",
-      "loadMore": "Vis flere billeder"
+      "domantas": "Domantas – fotograf 1",
+      "hansi": "Hansi – fotograf 2"
     }
   }
 }
