@@ -255,7 +255,10 @@
     "photos": {
       "title": "Bilder",
       "domantas": "Domantas – fotograf 1",
-      "hansi": "Hansi – fotograf 2"
+      "hansi": "Hansi – fotograf 2",
+      "uploadTitle": "Last opp bilder",
+      "uploadText": "Har du bilder fra bryllupet som du vil dele med oss? Last dem opp her, så vi kan samle alle de fine minnene på ett sted.",
+      "uploadButton": "Last opp bildene dine"
     }
   }
 }

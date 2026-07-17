@@ -45,6 +45,32 @@ export function PhotosSection() {
           </a>
         ))}
       </div>
+
+      <div className="max-w-2xl mx-auto mt-16 pt-14 border-t border-white/10">
+        <h3
+          className="text-white text-3xl md:text-4xl mb-5"
+          style={{ fontFamily: "Sacramento, cursive" }}
+        >
+          {t("memorial.photos.uploadTitle")}
+        </h3>
+
+        <p
+          className="max-w-lg mx-auto text-white/65 text-sm md:text-base leading-relaxed mb-8"
+          style={{ fontFamily: "Maitree, serif" }}
+        >
+          {t("memorial.photos.uploadText")}
+        </p>
+
+        <a
+          href="https://photos.leidev.net"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block rounded-full border border-white bg-white px-7 py-3 text-[#022d1d] transition-colors hover:bg-transparent hover:text-white"
+          style={{ fontFamily: "Maitree, serif" }}
+        >
+          {t("memorial.photos.uploadButton")}
+        </a>
+      </div>
     </section>
   );
 }

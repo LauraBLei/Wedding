@@ -255,7 +255,10 @@
     "photos": {
       "title": "Photos",
       "domantas": "Domantas – photographer 1",
-      "hansi": "Hansi – photographer 2"
+      "hansi": "Hansi – photographer 2",
+      "uploadTitle": "Upload photos",
+      "uploadText": "Do you have photos from the wedding that you would like to share with us? Upload them here so we can gather all the wonderful memories in one place.",
+      "uploadButton": "Upload your photos"
     }
   }
 }
