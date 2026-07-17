@@ -25,8 +25,8 @@ export function CeremonySection({ image }: CeremonySectionProps) {
       style={{ backgroundColor: "#022d1d" }}
     >
       <h2
-        className="text-white/40 text-xs tracking-widest uppercase text-center mb-12"
-        style={{ fontFamily: "Maitree, serif", letterSpacing: "0.3em" }}
+        className="text-white text-4xl md:text-6xl text-center mb-14"
+        style={{ fontFamily: "Sacramento, cursive" }}
       >
         {t("memorial.ceremony.title")}
       </h2>
